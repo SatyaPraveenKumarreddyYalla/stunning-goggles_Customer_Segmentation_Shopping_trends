@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,ItemPurchased,Category,PurchaseAmountUSD,Location,Size,Color,Season,ReviewRating,SubscriptionStatus,ShippingType,DiscountApplied,PromoCodeUsed,PreviousPurchases,PaymentMethod,FrequencyOfPurchases,Age_Group
+1,56,Male,Bag,Accessories,374.86,"New York",L,Red,Fall,3,No,Standard,Yes,No,7,PayPal,Fortnightly,50s
+2,46,Male,Shoes,"Home Decor",33.28,"Los Angeles",S,Black,Spring,2,No,Express,Yes,No,3,UPI,Weekly,40s
+3,32,Female,Laptop,"Home Decor",117.45,Houston,S,Black,Fall,4,No,Standard,Yes,Yes,13,UPI,Monthly,30s
+4,60,Male,Bag,"Home Decor",356.05,Chicago,M,Green,Summer,2,Yes,Express,No,No,14,PayPal,Weekly,60+
+5,25,Female,Laptop,Accessories,393.50,Houston,M,Black,Winter,2,Yes,Express,No,No,5,Cash,Fortnightly,20s
+6,38,Female,Phone,Accessories,233.11,"Los Angeles",M,Green,Winter,5,No,Standard,No,Yes,4,UPI,Fortnightly,30s
+7,56,Male,Shoes,Accessories,352.06,Chicago,S,Green,Winter,2,Yes,Standard,Yes,No,12,UPI,Weekly,50s
+8,36,Female,T-Shirt,Clothing,200.10,Chicago,XL,Green,Fall,2,Yes,Express,Yes,No,9,UPI,Fortnightly,30s
+9,40,Female,Watch,Electronics,88.36,Chicago,M,Red,Fall,2,Yes,Standard,Yes,Yes,5,UPI,Monthly,40s
+10,28,Male,Football,"Home Decor",205.09,Chicago,XL,Black,Summer,1,No,Standard,Yes,No,3,"Credit Card",Fortnightly,20s
+11,28,Female,Football,Clothing,294.18,Houston,M,Black,Spring,3,Yes,Express,Yes,Yes,3,UPI,Fortnightly,20s
+12,41,Female,Watch,"Home Decor",474.55,Chicago,S,Green,Spring,3,Yes,Express,No,Yes,6,Cash,Weekly,40s
+13,53,Female,Phone,Clothing,43.69,Houston,XL,Black,Winter,2,Yes,Express,Yes,Yes,0,"Credit Card",Monthly,50s
+14,57,Female,Shoes,Accessories,258.62,Chicago,XL,Black,Winter,5,Yes,Standard,No,Yes,8,UPI,Weekly,50s
+15,41,Male,Shoes,"Home Decor",171.17,Chicago,S,Green,Fall,5,Yes,Express,Yes,Yes,9,"Debit Card",Weekly,40s
+16,20,Female,Laptop,Accessories,259.07,"Los Angeles",XL,White,Winter,5,Yes,Express,No,Yes,2,"Credit Card",Weekly,20s
+17,39,Female,T-Shirt,"Home Decor",21.75,Houston,S,White,Summer,3,Yes,Standard,Yes,Yes,3,UPI,Fortnightly,30s
+18,19,Female,Curtains,Sports,163.38,Houston,S,Green,Summer,4,No,Standard,Yes,Yes,14,Cash,Fortnightly,"below 20"
+19,41,Female,Bag,Clothing,411.74,Miami,L,Red,Winter,2,Yes,Standard,Yes,Yes,8,PayPal,Weekly,40s
+20,61,Male,Shoes,Sports,281.43,"Los Angeles",M,Black,Winter,3,Yes,Express,Yes,Yes,4,UPI,Fortnightly,60+
+21,47,Female,Watch,Clothing,230.79,Houston,L,Black,Winter,5,Yes,Standard,No,Yes,11,"Debit Card",Fortnightly,40s
+22,55,Male,Curtains,Electronics,149.91,"Los Angeles",S,White,Winter,3,No,Express,Yes,Yes,3,Cash,Weekly,50s
+23,19,Female,Football,"Home Decor",156.04,"Los Angeles",S,Green,Winter,3,Yes,Express,No,Yes,11,"Credit Card",Monthly,"below 20"
+24,38,Male,Curtains,Electronics,197.72,"Los Angeles",XL,Red,Summer,3,No,Express,No,No,5,Cash,Monthly,30s
+25,50,Male,T-Shirt,Electronics,419.43,"New York",S,Green,Spring,5,Yes,Express,No,Yes,0,UPI,Fortnightly,50s
+26,29,Male,Watch,Clothing,483.93,Houston,S,White,Summer,4,No,Standard,Yes,Yes,9,"Debit Card",Monthly,20s
+27,39,Male,T-Shirt,Sports,224.94,"Los Angeles",S,White,Summer,1,No,Standard,Yes,Yes,0,Cash,Monthly,30s
+28,61,Male,Curtains,Accessories,202.74,"New York",M,Black,Winter,2,No,Standard,No,No,4,Cash,Fortnightly,60+
+29,42,Female,Bag,Clothing,424.81,"New York",L,Blue,Spring,2,Yes,Standard,Yes,Yes,4,PayPal,Monthly,40s
+30,44,Female,Phone,Accessories,219.18,Chicago,L,Red,Winter,3,No,Express,No,No,10,PayPal,Fortnightly,40s
+31,59,Female,Shoes,Electronics,280.49,Chicago,M,Red,Summer,4,Yes,Standard,No,Yes,8,UPI,Weekly,50s
+32,45,Male,Watch,Accessories,123.16,Houston,M,Blue,Spring,5,Yes,Express,Yes,No,0,"Credit Card",Monthly,40s
+33,33,Female,Phone,Sports,374.32,Chicago,M,White,Fall,1,Yes,Standard,Yes,No,2,"Credit Card",Weekly,30s
+34,32,Male,Curtains,Clothing,270.67,Houston,L,Green,Winter,1,No,Standard,No,No,2,"Debit Card",Weekly,30s
+35,64,Male,Shoes,Sports,406.43,"New York",L,Red,Fall,3,Yes,Express,No,No,3,UPI,Fortnightly,60+
+36,61,Female,Laptop,Sports,392.56,"New York",S,Blue,Fall,3,No,Express,Yes,No,11,"Credit Card",Monthly,60+
+37,20,Female,Phone,Clothing,115.35,Houston,L,Black,Fall,5,Yes,Express,Yes,Yes,12,Cash,Monthly,20s
+38,54,Male,Phone,Sports,360.66,Chicago,XL,Black,Fall,5,Yes,Standard,Yes,Yes,6,UPI,Monthly,50s
+39,24,Male,Curtains,"Home Decor",402.03,Chicago,L,White,Spring,5,Yes,Express,No,Yes,14,Cash,Monthly,20s
+40,38,Female,Football,"Home Decor",179.59,Houston,M,Red,Winter,3,Yes,Standard,No,No,6,"Debit Card",Fortnightly,30s
+41,26,Female,Curtains,"Home Decor",94.58,Miami,L,Green,Spring,4,Yes,Express,No,No,14,UPI,Weekly,20s
+42,56,Female,Phone,Accessories,11.29,Chicago,S,Red,Winter,3,Yes,Standard,Yes,No,9,"Debit Card",Monthly,50s
+43,35,Female,Shoes,Sports,230.94,"Los Angeles",L,Black,Winter,3,Yes,Express,No,No,4,PayPal,Monthly,30s
+44,21,Male,Bag,Clothing,182.69,Chicago,M,Red,Winter,1,No,Express,No,Yes,13,"Debit Card",Fortnightly,20s
+45,42,Female,Football,Clothing,281.91,Miami,XL,Black,Spring,5,Yes,Express,No,No,8,PayPal,Monthly,40s
+46,31,Female,Curtains,Accessories,102.14,"New York",M,Blue,Summer,2,Yes,Express,Yes,Yes,6,UPI,Monthly,30s
+47,26,Female,Bag,Clothing,431.24,"New York",XL,Blue,Fall,5,No,Standard,No,No,1,Cash,Weekly,20s
+48,43,Male,Watch,"Home Decor",136.30,"New York",S,Black,Summer,4,No,Standard,Yes,No,11,Cash,Monthly,40s
+49,19,Male,Curtains,Sports,120.95,Chicago,S,Green,Summer,4,No,Standard,No,No,2,Cash,Monthly,"below 20"
+50,37,Male,Phone,Clothing,245.55,"New York",L,Green,Summer,5,Yes,Standard,No,No,10,"Debit Card",Weekly,30s
+51,45,Male,Bag,Clothing,254.44,Miami,S,Red,Fall,5,No,Express,Yes,No,6,UPI,Monthly,40s
+52,64,Female,Phone,Electronics,115.39,Miami,S,Black,Summer,3,Yes,Express,Yes,Yes,4,UPI,Weekly,60+
+53,24,Male,Laptop,Electronics,143.21,Chicago,M,White,Fall,2,No,Standard,Yes,No,6,PayPal,Fortnightly,20s
+54,61,Female,Bag,Electronics,93.16,"Los Angeles",M,Green,Fall,3,Yes,Standard,No,Yes,8,UPI,Weekly,60+
+55,25,Female,Bag,Sports,362.05,Chicago,L,Green,Fall,1,No,Standard,Yes,Yes,8,Cash,Weekly,20s
+56,64,Female,Curtains,"Home Decor",387.34,"New York",L,Blue,Winter,1,Yes,Standard,No,No,2,UPI,Monthly,60+
+57,52,Female,Phone,"Home Decor",236.54,Chicago,L,Green,Winter,4,Yes,Standard,No,No,7,PayPal,Monthly,50s
+58,31,Male,Watch,"Home Decor",359.90,Miami,L,Green,Summer,4,Yes,Express,Yes,No,12,UPI,Monthly,30s
+59,34,Male,T-Shirt,Sports,370.61,Chicago,M,Green,Winter,2,No,Express,Yes,No,5,UPI,Monthly,30s
+60,53,Male,Football,Sports,77.76,Chicago,L,Black,Fall,4,No,Standard,Yes,No,12,Cash,Weekly,50s
+61,57,Female,T-Shirt,Electronics,483.43,"Los Angeles",L,Black,Winter,1,No,Standard,Yes,No,3,UPI,Fortnightly,50s
+62,21,Female,Football,Clothing,412.31,Miami,S,Blue,Fall,2,No,Express,No,Yes,14,"Debit Card",Monthly,20s
+63,19,Female,Watch,Accessories,110.20,Houston,L,Red,Spring,1,No,Standard,No,Yes,3,PayPal,Weekly,"below 20"
+64,23,Female,Bag,Accessories,101.22,Houston,XL,Green,Winter,5,Yes,Standard,Yes,No,3,PayPal,Fortnightly,20s
+65,59,Female,Bag,Clothing,71.57,Miami,S,Red,Summer,5,No,Express,Yes,No,6,PayPal,Fortnightly,50s
+66,21,Male,Curtains,Electronics,77.81,Houston,M,Black,Spring,2,Yes,Express,No,Yes,5,UPI,Fortnightly,20s
+67,46,Female,Laptop,Clothing,376.60,"New York",XL,Green,Spring,3,Yes,Express,No,Yes,1,"Debit Card",Weekly,40s
+68,35,Male,Phone,Clothing,240.13,Houston,L,Red,Winter,4,Yes,Standard,Yes,Yes,4,PayPal,Monthly,30s
+69,43,Female,Phone,Accessories,393.64,"New York",S,Red,Winter,2,Yes,Standard,No,No,4,"Credit Card",Weekly,40s
+70,61,Female,Phone,Electronics,375.66,Miami,L,White,Summer,4,No,Express,No,Yes,5,Cash,Monthly,60+
+71,51,Male,Curtains,Sports,306.26,Houston,S,Black,Spring,1,No,Standard,No,No,6,"Credit Card",Fortnightly,50s
+72,27,Male,Football,Accessories,346.32,Houston,L,Blue,Fall,3,No,Standard,No,No,11,"Credit Card",Fortnightly,20s
+73,53,Female,Bag,Sports,18.99,"New York",XL,Blue,Winter,4,No,Standard,No,Yes,10,PayPal,Weekly,50s
+74,31,Female,Watch,Electronics,162.77,"New York",M,White,Spring,5,No,Standard,No,Yes,7,"Credit Card",Fortnightly,30s
+75,48,Female,Phone,Clothing,322.53,Chicago,XL,Red,Spring,5,No,Standard,No,Yes,11,"Credit Card",Weekly,40s
+76,32,Female,T-Shirt,"Home Decor",14.58,"Los Angeles",XL,White,Fall,1,Yes,Express,No,No,9,"Debit Card",Monthly,30s
+77,25,Male,Phone,"Home Decor",26.16,Houston,M,White,Spring,2,No,Standard,Yes,No,13,Cash,Fortnightly,20s
+78,31,Female,Bag,Electronics,427.43,"Los Angeles",S,Black,Winter,4,Yes,Express,No,Yes,14,UPI,Monthly,30s
+79,40,Male,Curtains,"Home Decor",345.17,"Los Angeles",S,Green,Fall,1,Yes,Express,Yes,No,7,PayPal,Fortnightly,40s
+80,57,Female,Watch,Sports,140.03,Houston,M,Red,Winter,5,Yes,Standard,Yes,Yes,10,PayPal,Monthly,50s
+81,38,Male,Laptop,"Home Decor",347.10,"New York",L,Blue,Summer,5,Yes,Express,Yes,No,4,"Credit Card",Fortnightly,30s
+82,33,Male,Watch,Electronics,398.30,Chicago,S,Blue,Spring,5,No,Express,Yes,Yes,1,UPI,Monthly,30s
+83,62,Female,T-Shirt,Electronics,160.33,Miami,XL,White,Winter,3,No,Standard,Yes,No,9,UPI,Fortnightly,60+
+84,35,Male,Phone,Sports,27.66,Houston,M,White,Winter,3,Yes,Express,No,Yes,7,UPI,Weekly,30s
+85,64,Female,Phone,"Home Decor",467.06,Houston,XL,White,Summer,5,No,Standard,Yes,No,5,PayPal,Monthly,60+
+86,41,Male,Shoes,"Home Decor",179.14,Miami,S,Red,Spring,2,Yes,Standard,No,No,2,PayPal,Monthly,40s
+87,43,Female,Football,Clothing,62.18,"Los Angeles",M,White,Winter,3,Yes,Express,Yes,No,3,"Debit Card",Weekly,40s
+88,42,Male,T-Shirt,Accessories,251.01,Chicago,M,White,Fall,4,Yes,Standard,No,Yes,11,PayPal,Weekly,40s
+89,62,Female,Shoes,Electronics,386.55,"Los Angeles",S,Green,Winter,3,Yes,Express,No,No,0,PayPal,Weekly,60+
+90,58,Female,Watch,Clothing,118.61,Miami,S,Red,Winter,4,No,Express,Yes,No,2,"Debit Card",Fortnightly,50s
+91,46,Male,Laptop,Electronics,142.05,Miami,M,Black,Winter,3,Yes,Standard,No,Yes,3,PayPal,Weekly,40s
+92,32,Male,Football,Clothing,128.93,Chicago,L,Black,Winter,5,No,Standard,Yes,Yes,1,"Credit Card",Fortnightly,30s
+93,62,Male,T-Shirt,Accessories,495.92,Miami,M,Green,Spring,4,Yes,Standard,No,No,13,"Credit Card",Fortnightly,60+
+94,18,Male,Phone,Clothing,106.73,Miami,L,Blue,Winter,2,No,Standard,No,No,11,"Debit Card",Weekly,"below 20"
+95,42,Female,Watch,Electronics,292.00,Chicago,XL,Black,Summer,3,No,Standard,Yes,Yes,5,"Debit Card",Weekly,40s
+96,24,Male,T-Shirt,"Home Decor",463.38,Houston,L,Red,Winter,3,No,Standard,No,No,7,"Credit Card",Fortnightly,20s
+97,26,Female,Phone,Electronics,81.98,"Los Angeles",L,Blue,Fall,5,Yes,Standard,No,No,11,UPI,Monthly,20s
+98,41,Male,Bag,Sports,485.72,Houston,S,White,Fall,4,Yes,Standard,No,Yes,5,PayPal,Monthly,40s
+99,18,Female,Football,Sports,474.26,Houston,M,Red,Winter,5,No,Standard,No,Yes,9,Cash,Weekly,"below 20"
+100,61,Female,Bag,Sports,443.44,"Los Angeles",XL,Blue,Winter,4,No,Standard,No,Yes,2,Cash,Monthly,60+
+101,25,Female,Bag,Sports,115.13,Houston,M,Black,Summer,3,Yes,Express,No,No,8,"Debit Card",Fortnightly,20s
+102,41,Female,Phone,Accessories,320.69,Chicago,L,White,Summer,3,No,Express,Yes,No,13,Cash,Monthly,40s
+103,28,Male,Laptop,"Home Decor",382.84,"Los Angeles",L,White,Spring,3,No,Standard,No,Yes,3,UPI,Fortnightly,20s
+104,34,Male,Watch,"Home Decor",493.15,"New York",L,Red,Spring,3,No,Standard,Yes,Yes,13,Cash,Weekly,30s
+105,25,Female,Curtains,Electronics,98.41,Houston,M,White,Fall,1,Yes,Standard,No,No,5,"Credit Card",Weekly,20s
+106,52,Male,Phone,Clothing,385.35,Miami,L,Blue,Winter,3,Yes,Standard,Yes,Yes,3,"Debit Card",Monthly,50s
+107,52,Male,Laptop,Electronics,176.01,"Los Angeles",M,Green,Winter,3,Yes,Standard,No,No,14,Cash,Weekly,50s
+108,50,Female,Curtains,Electronics,96.06,"New York",XL,Black,Summer,4,Yes,Express,Yes,Yes,3,PayPal,Weekly,50s
+109,22,Male,Watch,Electronics,216.47,Miami,XL,Red,Summer,3,Yes,Standard,No,Yes,10,"Debit Card",Fortnightly,20s
+110,59,Male,Bag,Electronics,398.98,"New York",M,Green,Spring,3,Yes,Standard,Yes,No,1,UPI,Fortnightly,50s
+111,56,Male,Football,"Home Decor",237.78,Houston,XL,Green,Spring,4,No,Express,Yes,No,9,"Credit Card",Fortnightly,50s
+112,58,Female,Football,Clothing,273.39,Miami,S,Red,Fall,3,No,Standard,Yes,Yes,1,Cash,Fortnightly,50s
+113,45,Male,Watch,Electronics,497.63,Houston,L,Blue,Summer,3,No,Standard,No,No,1,"Credit Card",Weekly,40s
+114,24,Female,Watch,"Home Decor",205.56,Miami,L,Black,Winter,5,No,Express,No,No,1,UPI,Fortnightly,20s
+115,26,Male,T-Shirt,Electronics,311.55,"Los Angeles",L,Red,Summer,1,No,Standard,No,Yes,7,Cash,Fortnightly,20s
+116,25,Male,Laptop,Sports,188.97,Chicago,S,Green,Summer,4,No,Standard,Yes,No,14,"Debit Card",Fortnightly,20s
+117,29,Male,Bag,Electronics,202.46,Chicago,L,Green,Summer,5,Yes,Express,No,No,9,"Debit Card",Monthly,20s
+118,51,Female,Laptop,Electronics,350.86,"New York",M,Red,Spring,2,No,Standard,Yes,No,3,PayPal,Fortnightly,50s
+119,50,Female,Watch,Accessories,469.56,Miami,L,Green,Winter,2,No,Express,No,No,3,UPI,Weekly,50s
+120,40,Male,Shoes,Sports,275.76,Houston,M,Red,Winter,1,Yes,Standard,Yes,Yes,9,Cash,Weekly,40s
+121,41,Female,Shoes,Clothing,386.52,"Los Angeles",XL,Red,Spring,2,Yes,Express,Yes,Yes,9,"Credit Card",Fortnightly,40s
+122,54,Male,Curtains,Electronics,53.71,"Los Angeles",M,Black,Spring,1,No,Express,Yes,Yes,10,"Credit Card",Monthly,50s
+123,52,Female,Curtains,Clothing,113.47,"Los Angeles",M,Red,Winter,2,No,Standard,No,Yes,13,Cash,Monthly,50s
+124,61,Female,Shoes,Sports,256.04,Chicago,M,Green,Fall,2,No,Express,Yes,Yes,2,UPI,Monthly,60+
+125,57,Male,Watch,Electronics,19.81,Houston,L,White,Summer,5,Yes,Express,No,No,4,UPI,Monthly,50s
+126,39,Male,Watch,Accessories,133.90,"Los Angeles",S,Black,Winter,2,Yes,Standard,Yes,No,3,"Credit Card",Fortnightly,30s
+127,44,Male,Curtains,"Home Decor",263.53,"Los Angeles",S,Green,Spring,1,Yes,Express,No,No,6,Cash,Fortnightly,40s
+128,52,Male,Phone,Accessories,17.33,"New York",M,Green,Winter,3,Yes,Express,Yes,Yes,9,Cash,Weekly,50s
+129,18,Female,Watch,Accessories,139.63,Miami,L,Black,Summer,3,No,Standard,Yes,Yes,6,"Credit Card",Weekly,"below 20"
+130,52,Female,Shoes,"Home Decor",261.88,Miami,S,Black,Winter,3,No,Express,Yes,Yes,5,Cash,Monthly,50s
+131,54,Female,Laptop,"Home Decor",290.84,Miami,XL,Green,Spring,1,No,Standard,No,No,6,Cash,Monthly,50s
+132,64,Male,Watch,"Home Decor",463.62,"New York",XL,White,Fall,1,Yes,Express,Yes,No,11,"Debit Card",Weekly,60+
+133,31,Male,Bag,Electronics,326.22,Chicago,L,Blue,Spring,3,Yes,Express,Yes,No,6,"Debit Card",Weekly,30s
+134,20,Female,Watch,Clothing,213.22,"New York",XL,Green,Fall,2,No,Express,No,Yes,12,PayPal,Monthly,20s
+135,18,Male,Phone,Clothing,465.87,"Los Angeles",XL,Black,Summer,3,No,Express,No,Yes,7,PayPal,Weekly,"below 20"
+136,22,Female,Curtains,"Home Decor",394.59,Houston,XL,Red,Spring,4,No,Standard,Yes,No,10,UPI,Monthly,20s
+137,43,Female,Watch,Accessories,108.00,"Los Angeles",S,Red,Winter,1,Yes,Express,No,No,12,"Debit Card",Fortnightly,40s
+138,31,Female,Football,Sports,74.11,"Los Angeles",XL,Black,Spring,4,No,Standard,No,No,0,"Debit Card",Monthly,30s
+139,56,Female,T-Shirt,"Home Decor",341.15,Houston,M,Black,Spring,4,Yes,Standard,Yes,Yes,14,"Debit Card",Fortnightly,50s
+140,44,Female,Shoes,Accessories,284.34,Miami,M,Blue,Summer,1,No,Express,No,Yes,2,"Debit Card",Fortnightly,40s
+141,26,Male,Bag,Accessories,396.94,"New York",XL,Black,Fall,3,No,Standard,Yes,No,11,UPI,Fortnightly,20s
+142,32,Male,Bag,Electronics,372.01,Chicago,M,Red,Fall,5,Yes,Express,Yes,No,2,"Credit Card",Weekly,30s
+143,32,Male,Bag,Electronics,316.35,"Los Angeles",S,White,Winter,4,Yes,Standard,Yes,Yes,4,UPI,Weekly,30s
+144,43,Female,Football,Clothing,493.33,"Los Angeles",L,Black,Spring,3,Yes,Express,No,No,9,"Credit Card",Monthly,40s
+145,59,Female,Bag,Clothing,271.46,Chicago,M,Blue,Summer,5,No,Standard,No,No,13,PayPal,Fortnightly,50s
+146,30,Female,Bag,Sports,65.42,"New York",XL,White,Fall,4,Yes,Standard,Yes,Yes,12,"Debit Card",Monthly,30s
+147,49,Female,Curtains,Sports,415.85,"Los Angeles",L,Blue,Winter,3,No,Express,Yes,No,12,"Credit Card",Fortnightly,40s
+148,56,Male,Laptop,Sports,133.41,Chicago,L,White,Fall,4,Yes,Express,No,No,6,UPI,Fortnightly,50s
+149,49,Male,T-Shirt,Sports,390.88,"Los Angeles",XL,Black,Winter,3,No,Standard,No,No,14,"Credit Card",Monthly,40s
+150,21,Female,Football,Accessories,478.98,Miami,M,Red,Fall,2,Yes,Standard,Yes,Yes,9,Cash,Monthly,20s
+151,47,Female,T-Shirt,Accessories,351.43,Miami,S,White,Winter,2,Yes,Standard,Yes,No,5,PayPal,Monthly,40s
+152,54,Female,Shoes,Clothing,302.05,"Los Angeles",M,Green,Fall,1,No,Standard,Yes,No,3,PayPal,Monthly,50s
+153,40,Male,Curtains,Electronics,235.59,"Los Angeles",M,Blue,Fall,5,Yes,Standard,No,Yes,5,"Debit Card",Weekly,40s
+154,56,Male,Watch,Electronics,188.56,Miami,S,White,Spring,4,No,Standard,Yes,No,6,"Debit Card",Fortnightly,50s
+155,62,Male,Laptop,"Home Decor",182.97,"Los Angeles",L,Blue,Winter,4,No,Express,No,No,3,UPI,Fortnightly,60+
+156,32,Female,Curtains,Accessories,321.82,"New York",S,Red,Winter,3,No,Express,Yes,Yes,10,"Credit Card",Weekly,30s
+157,60,Female,T-Shirt,Sports,378.12,"New York",S,Blue,Spring,5,Yes,Express,No,No,7,Cash,Fortnightly,60+
+158,46,Male,Football,Sports,342.47,Houston,XL,Blue,Spring,4,No,Standard,No,No,4,PayPal,Weekly,40s
+159,53,Female,Shoes,"Home Decor",107.22,"New York",XL,Green,Fall,5,Yes,Standard,Yes,No,2,"Credit Card",Fortnightly,50s
+160,30,Male,Shoes,Electronics,252.05,"Los Angeles",M,Blue,Fall,5,Yes,Express,No,Yes,1,Cash,Weekly,30s
+161,49,Female,Curtains,Sports,397.90,"Los Angeles",XL,White,Fall,2,No,Express,No,No,0,"Credit Card",Weekly,40s
+162,24,Male,Watch,Electronics,243.09,Chicago,S,Blue,Spring,4,Yes,Express,Yes,Yes,14,"Debit Card",Fortnightly,20s
+163,39,Female,Football,"Home Decor",272.95,"New York",S,Black,Fall,4,No,Express,No,Yes,3,PayPal,Fortnightly,30s
+164,45,Male,Watch,Electronics,387.86,Miami,XL,Blue,Spring,1,No,Express,No,Yes,1,Cash,Fortnightly,40s
+165,19,Male,Watch,Electronics,334.02,Miami,XL,Black,Fall,5,No,Express,Yes,Yes,11,"Debit Card",Monthly,"below 20"
+166,59,Male,Bag,Electronics,210.58,Houston,XL,Blue,Spring,3,No,Express,No,Yes,2,UPI,Fortnightly,50s
+167,62,Male,Football,Sports,448.75,Chicago,S,Blue,Winter,2,No,Express,No,Yes,0,UPI,Fortnightly,60+
+168,23,Male,T-Shirt,Clothing,89.66,Miami,L,White,Summer,1,No,Standard,Yes,Yes,14,"Debit Card",Fortnightly,20s
+169,45,Male,Curtains,Accessories,497.80,Houston,L,Black,Fall,2,Yes,Express,Yes,No,13,Cash,Monthly,40s
+170,45,Female,Curtains,Electronics,68.24,"New York",XL,Black,Fall,3,Yes,Express,Yes,No,12,Cash,Fortnightly,40s
+171,61,Female,Bag,Electronics,17.33,Chicago,M,Green,Spring,1,Yes,Express,No,Yes,5,PayPal,Weekly,60+
+172,61,Female,Phone,Electronics,446.11,Chicago,M,Blue,Winter,2,Yes,Standard,Yes,No,3,"Debit Card",Weekly,60+
+173,37,Male,Curtains,Clothing,130.03,"Los Angeles",L,Blue,Winter,3,Yes,Express,Yes,No,4,UPI,Monthly,30s
+174,47,Male,Shoes,"Home Decor",367.55,"New York",XL,White,Fall,1,No,Standard,Yes,No,14,"Debit Card",Monthly,40s
+175,28,Female,T-Shirt,Sports,407.40,Chicago,S,Green,Spring,3,Yes,Standard,Yes,Yes,7,"Credit Card",Monthly,20s
+176,45,Male,Football,Clothing,430.90,Houston,M,Green,Spring,1,No,Standard,Yes,No,10,Cash,Monthly,40s
+177,42,Male,Curtains,Electronics,495.88,Miami,M,White,Summer,4,Yes,Standard,Yes,Yes,3,"Credit Card",Monthly,40s
+178,56,Male,T-Shirt,Clothing,154.08,"New York",S,Black,Winter,4,Yes,Standard,Yes,Yes,5,UPI,Fortnightly,50s
+179,50,Male,Bag,Clothing,358.02,"New York",S,Red,Summer,2,No,Express,No,No,2,Cash,Weekly,50s
+180,18,Male,Curtains,Clothing,66.55,Chicago,XL,White,Winter,5,Yes,Express,No,Yes,7,UPI,Weekly,"below 20"
+181,44,Female,Football,"Home Decor",209.34,Chicago,S,Black,Fall,5,Yes,Standard,Yes,Yes,12,UPI,Fortnightly,40s
+182,30,Female,Laptop,Accessories,425.51,Chicago,S,Green,Fall,3,Yes,Standard,Yes,Yes,2,UPI,Monthly,30s
+183,58,Female,Football,Sports,190.15,Houston,S,White,Spring,1,No,Standard,No,No,14,PayPal,Fortnightly,50s
+184,20,Female,Football,"Home Decor",299.64,"Los Angeles",L,Red,Spring,4,Yes,Standard,Yes,No,14,UPI,Monthly,20s
+185,56,Female,Football,"Home Decor",256.85,Chicago,S,Blue,Spring,5,No,Standard,No,No,6,UPI,Weekly,50s
+186,23,Male,Curtains,Accessories,326.52,"Los Angeles",M,White,Winter,4,Yes,Express,Yes,Yes,6,"Credit Card",Weekly,20s
+187,25,Male,Phone,"Home Decor",486.72,"Los Angeles",XL,Red,Spring,3,No,Standard,No,No,14,"Credit Card",Monthly,20s
+188,44,Male,Football,Clothing,37.31,"New York",XL,Red,Fall,3,Yes,Standard,Yes,No,2,"Credit Card",Fortnightly,40s
+189,26,Male,Bag,Clothing,291.24,Miami,XL,White,Summer,1,No,Standard,No,No,2,Cash,Monthly,20s
+190,54,Female,Shoes,Electronics,432.88,Miami,L,Black,Fall,5,No,Express,No,Yes,9,PayPal,Monthly,50s
+191,50,Female,Shoes,"Home Decor",245.88,Houston,M,White,Fall,3,Yes,Express,Yes,Yes,9,Cash,Weekly,50s
+192,59,Female,Bag,Electronics,48.48,Houston,S,Green,Fall,3,Yes,Express,No,No,11,PayPal,Monthly,50s
+193,61,Male,T-Shirt,Sports,284.66,Miami,M,Red,Summer,4,Yes,Standard,No,Yes,10,PayPal,Fortnightly,60+
+194,41,Female,Phone,Clothing,172.72,Miami,XL,Red,Fall,2,No,Standard,Yes,No,13,"Debit Card",Monthly,40s
+195,32,Male,T-Shirt,Sports,85.92,"New York",S,Blue,Winter,5,Yes,Express,No,No,7,"Debit Card",Weekly,30s
+196,49,Female,Bag,Accessories,426.03,"New York",XL,Red,Winter,1,No,Express,No,Yes,10,"Debit Card",Fortnightly,40s
+197,49,Female,Shoes,Clothing,265.58,Miami,XL,Blue,Summer,1,Yes,Express,No,Yes,14,PayPal,Fortnightly,40s
+198,41,Male,Watch,Sports,467.31,Chicago,XL,Red,Winter,4,Yes,Standard,No,Yes,2,PayPal,Weekly,40s
+199,58,Male,Shoes,Accessories,404.95,Chicago,M,Red,Spring,1,No,Standard,Yes,Yes,1,Cash,Weekly,50s
+200,29,Female,Laptop,Sports,349.56,"New York",M,White,Winter,3,Yes,Express,No,Yes,4,PayPal,Monthly,20s
+201,56,Female,Football,Accessories,12.46,"Los Angeles",XL,White,Fall,5,Yes,Express,No,Yes,10,UPI,Weekly,50s
+202,19,Male,Watch,Accessories,219.63,Miami,XL,Green,Winter,1,Yes,Standard,No,No,6,UPI,Weekly,"below 20"
+203,20,Female,Shoes,Clothing,106.77,Houston,S,Black,Spring,5,No,Express,No,No,7,PayPal,Weekly,20s
+204,54,Female,Curtains,Electronics,456.29,Chicago,XL,Green,Spring,1,No,Standard,Yes,Yes,0,UPI,Weekly,50s
+205,34,Male,Curtains,Accessories,95.55,"Los Angeles",XL,Red,Spring,2,No,Express,No,Yes,11,PayPal,Fortnightly,30s
+206,19,Female,T-Shirt,Accessories,150.17,Chicago,XL,Green,Fall,2,No,Standard,Yes,No,1,"Debit Card",Fortnightly,"below 20"
+207,19,Male,Watch,Clothing,263.25,"Los Angeles",XL,White,Spring,5,Yes,Standard,Yes,No,12,PayPal,Fortnightly,"below 20"
+208,45,Female,T-Shirt,Electronics,139.05,Miami,M,Red,Fall,2,Yes,Express,No,Yes,6,"Debit Card",Weekly,40s
+209,40,Male,Football,"Home Decor",112.83,Miami,XL,Red,Spring,2,Yes,Standard,Yes,Yes,8,"Credit Card",Monthly,40s
+210,54,Female,Football,"Home Decor",303.56,Miami,L,Green,Fall,3,No,Standard,No,No,2,UPI,Monthly,50s
+211,49,Male,Laptop,Electronics,53.58,"New York",XL,Blue,Fall,1,Yes,Express,No,No,13,"Credit Card",Monthly,40s
+212,50,Female,Bag,Sports,38.50,"Los Angeles",M,Black,Fall,2,No,Standard,No,No,7,UPI,Monthly,50s
+213,18,Male,Bag,Clothing,192.40,Houston,L,Green,Winter,5,Yes,Express,Yes,No,13,"Credit Card",Fortnightly,"below 20"
+214,36,Female,Phone,Electronics,363.13,Houston,L,Green,Spring,3,No,Standard,Yes,No,9,PayPal,Monthly,30s
+215,19,Female,T-Shirt,"Home Decor",281.86,Miami,XL,Black,Fall,2,No,Express,No,Yes,2,"Credit Card",Fortnightly,"below 20"
+216,61,Female,Football,Accessories,217.21,Houston,XL,Red,Spring,5,Yes,Standard,Yes,No,3,UPI,Monthly,60+
+217,43,Female,Bag,"Home Decor",287.22,Chicago,M,Red,Winter,1,No,Standard,Yes,Yes,1,Cash,Monthly,40s
+218,49,Female,T-Shirt,Accessories,189.07,"Los Angeles",L,Blue,Summer,2,No,Express,Yes,No,8,UPI,Fortnightly,40s
+219,23,Female,Football,Clothing,468.71,"Los Angeles",L,Green,Spring,5,Yes,Express,Yes,Yes,13,Cash,Fortnightly,20s
+220,49,Female,Shoes,Accessories,36.90,"Los Angeles",M,Black,Spring,5,No,Standard,No,No,14,PayPal,Monthly,40s
+221,21,Female,T-Shirt,Electronics,339.96,Chicago,XL,Green,Winter,4,No,Express,No,Yes,4,UPI,Weekly,20s
+222,28,Female,Shoes,Accessories,446.73,"New York",S,White,Fall,5,Yes,Express,No,No,4,"Credit Card",Monthly,20s
+223,34,Male,T-Shirt,Sports,403.90,Chicago,S,Green,Spring,4,No,Standard,Yes,Yes,3,PayPal,Monthly,30s
+224,55,Male,Phone,Electronics,100.18,"Los Angeles",L,Green,Summer,1,No,Express,No,No,12,UPI,Monthly,50s
+225,41,Female,Laptop,Clothing,155.00,"Los Angeles",L,White,Winter,1,No,Standard,No,Yes,4,PayPal,Fortnightly,40s
+226,22,Male,Curtains,Electronics,361.35,"Los Angeles",XL,White,Fall,3,Yes,Express,No,Yes,14,Cash,Monthly,20s
+227,51,Female,Bag,Sports,51.29,Houston,S,Black,Spring,4,Yes,Standard,Yes,Yes,11,PayPal,Weekly,50s
+228,23,Female,Curtains,Clothing,407.81,"New York",L,Red,Spring,5,Yes,Express,Yes,Yes,13,"Credit Card",Monthly,20s
+229,39,Male,Curtains,"Home Decor",362.26,Chicago,XL,Blue,Winter,3,Yes,Standard,Yes,No,0,UPI,Weekly,30s
+230,28,Female,Shoes,Sports,367.51,"Los Angeles",S,White,Fall,3,No,Standard,No,No,9,Cash,Weekly,20s
+231,33,Female,Watch,Clothing,59.12,Miami,M,Red,Fall,1,Yes,Express,No,Yes,13,PayPal,Weekly,30s
+232,50,Male,Football,Accessories,361.70,"New York",L,Black,Winter,5,Yes,Express,No,No,9,"Debit Card",Monthly,50s
+233,26,Male,Curtains,Electronics,343.11,Miami,M,Green,Spring,4,Yes,Standard,Yes,Yes,11,Cash,Fortnightly,20s
+234,23,Female,Phone,Clothing,417.15,"New York",S,Black,Spring,1,Yes,Express,No,No,5,Cash,Fortnightly,20s
+235,33,Male,Curtains,Electronics,30.38,"Los Angeles",XL,Black,Fall,3,No,Standard,Yes,No,10,"Credit Card",Monthly,30s
+236,46,Male,T-Shirt,Accessories,21.32,"New York",XL,White,Fall,2,No,Standard,Yes,Yes,3,"Credit Card",Monthly,40s
+237,20,Female,Shoes,Clothing,192.77,"New York",S,Blue,Summer,3,Yes,Express,Yes,No,11,PayPal,Weekly,20s
+238,37,Male,Watch,"Home Decor",82.91,"Los Angeles",M,White,Summer,2,No,Express,No,Yes,3,"Debit Card",Monthly,30s
+239,53,Male,T-Shirt,Sports,283.61,Miami,XL,Green,Summer,1,Yes,Express,Yes,No,11,Cash,Fortnightly,50s
+240,36,Female,Watch,Clothing,459.50,Miami,L,White,Fall,4,Yes,Standard,No,No,12,PayPal,Monthly,30s
+241,43,Male,T-Shirt,Accessories,201.83,Houston,M,Green,Fall,5,No,Express,Yes,No,4,"Debit Card",Monthly,40s
+242,20,Male,T-Shirt,Clothing,424.03,Miami,M,White,Fall,2,No,Express,No,Yes,13,PayPal,Monthly,20s
+243,36,Female,Bag,Electronics,10.12,Miami,L,Blue,Spring,5,No,Express,Yes,No,0,Cash,Weekly,30s
+244,37,Female,Laptop,Clothing,92.57,"New York",S,Red,Winter,1,No,Standard,No,Yes,3,PayPal,Monthly,30s
+245,49,Female,Laptop,"Home Decor",24.91,Houston,XL,Blue,Fall,1,No,Express,No,Yes,9,"Credit Card",Monthly,40s
+246,24,Male,Football,Clothing,170.79,"Los Angeles",M,White,Spring,1,No,Express,Yes,No,2,"Credit Card",Monthly,20s
+247,58,Female,Shoes,Sports,455.01,"Los Angeles",XL,Black,Fall,4,Yes,Standard,No,Yes,4,UPI,Fortnightly,50s
+248,50,Female,Phone,Clothing,57.51,Chicago,XL,Red,Winter,2,No,Express,No,No,9,"Debit Card",Weekly,50s
+249,57,Male,Phone,Electronics,307.14,Houston,M,Black,Fall,5,Yes,Standard,Yes,Yes,4,Cash,Weekly,50s
+250,56,Female,Phone,Clothing,231.23,"New York",S,Blue,Spring,3,Yes,Express,Yes,No,7,"Debit Card",Fortnightly,50s
+251,35,Female,Bag,"Home Decor",469.85,Chicago,M,Red,Fall,1,Yes,Standard,No,Yes,13,"Credit Card",Weekly,30s
+252,57,Female,T-Shirt,Accessories,70.03,Chicago,S,White,Fall,5,Yes,Standard,Yes,Yes,0,Cash,Fortnightly,50s
+253,18,Female,Laptop,Clothing,113.89,"Los Angeles",L,Black,Fall,5,Yes,Standard,No,Yes,2,UPI,Weekly,"below 20"
+254,28,Male,Shoes,Clothing,24.48,Miami,S,White,Summer,4,No,Express,Yes,Yes,4,"Credit Card",Weekly,20s
+255,45,Female,T-Shirt,Sports,222.63,"New York",S,Green,Fall,2,No,Express,Yes,No,10,"Credit Card",Weekly,40s
+256,42,Female,Watch,"Home Decor",146.14,Houston,M,Red,Spring,4,Yes,Standard,Yes,No,2,"Debit Card",Monthly,40s
+257,40,Male,Laptop,Accessories,436.25,Chicago,XL,Black,Spring,4,Yes,Express,No,Yes,5,PayPal,Weekly,40s
+258,48,Female,Laptop,Electronics,306.42,"New York",XL,Blue,Spring,5,No,Express,Yes,Yes,9,"Debit Card",Monthly,40s
+259,47,Male,Curtains,Clothing,310.90,"Los Angeles",S,Blue,Fall,2,Yes,Express,No,Yes,12,"Credit Card",Monthly,40s
+260,59,Male,Curtains,Accessories,270.64,Chicago,S,Blue,Winter,2,No,Standard,No,Yes,2,"Debit Card",Monthly,50s
+261,52,Male,Bag,Electronics,55.01,Chicago,M,Blue,Spring,2,No,Express,Yes,No,5,PayPal,Fortnightly,50s
+262,24,Female,Shoes,"Home Decor",228.06,"Los Angeles",S,Black,Summer,1,No,Standard,Yes,No,7,UPI,Weekly,20s
+263,33,Male,Watch,"Home Decor",499.76,"Los Angeles",M,Green,Winter,2,Yes,Standard,Yes,No,3,Cash,Weekly,30s
+264,43,Male,Shoes,Accessories,419.26,"Los Angeles",L,Blue,Spring,5,Yes,Express,Yes,Yes,7,"Credit Card",Weekly,40s
+265,19,Male,Shoes,Electronics,447.79,"New York",S,Blue,Fall,1,Yes,Express,Yes,No,6,"Debit Card",Monthly,"below 20"
+266,18,Female,Bag,"Home Decor",413.38,"New York",L,Blue,Summer,3,Yes,Standard,No,No,10,"Credit Card",Weekly,"below 20"
+267,29,Female,Bag,Accessories,60.49,"New York",S,Green,Spring,4,Yes,Express,Yes,Yes,10,Cash,Monthly,20s
+268,22,Female,T-Shirt,"Home Decor",121.45,Miami,S,Red,Summer,2,Yes,Express,No,No,12,"Debit Card",Monthly,20s
+269,54,Female,Football,"Home Decor",11.53,Chicago,L,Blue,Winter,3,Yes,Standard,No,Yes,14,UPI,Monthly,50s
+270,49,Female,Bag,"Home Decor",158.72,"New York",L,Blue,Spring,2,Yes,Express,Yes,Yes,3,Cash,Monthly,40s
+271,26,Female,Shoes,Sports,63.22,Miami,M,Blue,Fall,4,No,Standard,Yes,Yes,2,PayPal,Weekly,20s
+272,58,Female,Curtains,Electronics,241.67,Chicago,M,Red,Summer,5,Yes,Standard,No,Yes,4,PayPal,Monthly,50s
+273,52,Male,Football,Accessories,341.79,"New York",L,Blue,Spring,5,No,Express,No,Yes,4,"Credit Card",Fortnightly,50s
+274,36,Male,T-Shirt,Accessories,438.51,"Los Angeles",S,Red,Winter,4,No,Standard,Yes,Yes,13,PayPal,Fortnightly,30s
+275,33,Male,Football,Electronics,377.12,Houston,M,Red,Winter,3,No,Express,No,Yes,6,"Debit Card",Fortnightly,30s
+276,20,Male,Phone,Electronics,469.91,"New York",S,White,Spring,1,Yes,Express,No,No,10,PayPal,Monthly,20s
+277,37,Female,Watch,Electronics,36.41,Houston,XL,White,Winter,1,Yes,Express,No,No,0,UPI,Weekly,30s
+278,41,Male,Football,Electronics,15.97,"New York",M,Blue,Summer,2,Yes,Standard,Yes,Yes,8,"Debit Card",Weekly,40s
+279,50,Male,Shoes,Clothing,334.06,"Los Angeles",M,Black,Summer,4,No,Standard,No,No,1,"Credit Card",Monthly,50s
+280,41,Male,T-Shirt,Accessories,151.78,Houston,M,White,Summer,4,Yes,Standard,No,No,8,"Credit Card",Monthly,40s
+281,28,Male,Watch,Clothing,134.22,Miami,XL,White,Summer,1,Yes,Express,No,No,8,PayPal,Monthly,20s
+282,25,Female,Shoes,"Home Decor",172.13,"Los Angeles",L,Black,Winter,3,No,Express,Yes,Yes,12,PayPal,Fortnightly,20s
+283,53,Female,Watch,"Home Decor",142.20,Houston,S,Green,Spring,4,Yes,Standard,Yes,No,12,"Credit Card",Monthly,50s
+284,55,Female,Curtains,Accessories,260.60,Houston,XL,Blue,Winter,5,No,Express,No,Yes,13,"Debit Card",Monthly,50s
+285,57,Male,Phone,"Home Decor",225.67,"Los Angeles",L,Green,Winter,5,No,Express,No,Yes,14,Cash,Weekly,50s
+286,37,Female,Curtains,Electronics,261.09,"Los Angeles",M,Green,Spring,4,No,Standard,No,Yes,2,"Credit Card",Weekly,30s
+287,52,Male,Shoes,Clothing,339.63,"Los Angeles",L,Red,Spring,3,Yes,Standard,Yes,Yes,14,UPI,Fortnightly,50s
+288,42,Female,Shoes,Electronics,199.69,Chicago,L,Red,Fall,5,No,Standard,Yes,Yes,6,"Debit Card",Fortnightly,40s
+289,52,Female,Shoes,"Home Decor",133.14,Miami,L,Blue,Summer,3,No,Express,No,Yes,2,Cash,Fortnightly,50s
+290,42,Female,Laptop,Clothing,91.44,"New York",S,Black,Spring,1,Yes,Express,No,Yes,7,Cash,Fortnightly,40s
+291,46,Female,Phone,Electronics,181.24,Houston,L,Red,Winter,2,No,Express,No,No,7,"Debit Card",Monthly,40s
+292,35,Female,Watch,Accessories,373.49,"New York",L,White,Summer,1,Yes,Standard,No,No,12,"Credit Card",Monthly,30s
+293,63,Male,Bag,Electronics,380.79,"Los Angeles",L,Blue,Summer,2,Yes,Standard,No,Yes,2,Cash,Fortnightly,60+
+294,35,Female,Shoes,"Home Decor",336.78,Miami,L,Green,Winter,5,No,Standard,No,No,4,UPI,Fortnightly,30s
+295,19,Male,Shoes,Clothing,124.67,Miami,XL,Blue,Spring,2,Yes,Standard,No,No,14,"Debit Card",Weekly,"below 20"
+296,52,Male,Watch,Accessories,298.16,Chicago,XL,Red,Summer,2,Yes,Express,Yes,Yes,6,PayPal,Weekly,50s
+297,33,Male,Bag,Clothing,289.64,"Los Angeles",L,Black,Summer,4,Yes,Standard,Yes,No,0,"Credit Card",Weekly,30s
+298,58,Male,Curtains,Accessories,247.29,Houston,L,Green,Summer,2,Yes,Express,Yes,Yes,2,"Debit Card",Fortnightly,50s
+299,53,Male,Curtains,Clothing,279.49,Chicago,L,Black,Summer,4,No,Standard,No,No,0,UPI,Weekly,50s
+300,50,Female,Shoes,"Home Decor",250.98,"Los Angeles",M,Blue,Summer,2,Yes,Express,Yes,Yes,1,Cash,Fortnightly,50s
+301,21,Female,T-Shirt,Accessories,287.07,Chicago,L,Black,Winter,4,Yes,Standard,No,Yes,13,"Credit Card",Monthly,20s
+302,50,Female,Laptop,Sports,360.60,"New York",L,Black,Spring,5,Yes,Express,Yes,No,13,"Credit Card",Fortnightly,50s
+303,31,Female,Curtains,Clothing,63.72,"Los Angeles",XL,Blue,Spring,5,Yes,Express,Yes,Yes,6,"Debit Card",Monthly,30s
+304,38,Male,T-Shirt,Clothing,377.32,Houston,XL,Green,Summer,2,No,Standard,Yes,No,6,"Debit Card",Monthly,30s
+305,37,Female,Laptop,Electronics,76.58,Houston,XL,Black,Summer,3,No,Express,Yes,Yes,2,UPI,Fortnightly,30s
+306,25,Female,Shoes,Accessories,42.65,"Los Angeles",S,Black,Summer,5,Yes,Standard,Yes,Yes,14,PayPal,Weekly,20s
+307,24,Male,Phone,Sports,488.28,Chicago,M,Blue,Winter,1,No,Express,No,No,12,"Debit Card",Fortnightly,20s
+308,20,Male,Football,"Home Decor",478.93,Miami,L,White,Winter,1,Yes,Standard,No,No,5,"Debit Card",Weekly,20s
+309,34,Female,Football,Electronics,39.61,"Los Angeles",XL,Black,Fall,4,No,Standard,Yes,No,12,"Debit Card",Monthly,30s
+310,50,Female,Shoes,Sports,227.19,Houston,S,Red,Summer,3,Yes,Standard,No,Yes,5,UPI,Monthly,50s
+311,29,Male,Curtains,Accessories,101.26,"New York",L,Green,Fall,4,Yes,Express,Yes,No,1,Cash,Monthly,20s
+312,39,Female,T-Shirt,Sports,247.82,Houston,L,Black,Fall,2,No,Express,Yes,Yes,12,PayPal,Monthly,30s
+313,39,Female,Phone,Clothing,416.79,Miami,XL,Blue,Fall,5,No,Standard,Yes,No,8,UPI,Fortnightly,30s
+314,63,Female,Watch,Clothing,475.80,Houston,L,Red,Spring,3,No,Express,No,No,12,"Debit Card",Monthly,60+
+315,47,Female,Laptop,Electronics,320.78,Miami,L,Blue,Fall,4,No,Standard,Yes,No,7,Cash,Weekly,40s
+316,55,Male,Shoes,Accessories,183.41,"Los Angeles",L,Black,Summer,4,No,Express,Yes,No,1,"Debit Card",Weekly,50s
+317,55,Male,Phone,Accessories,305.63,Houston,XL,Red,Winter,1,Yes,Standard,No,No,11,UPI,Monthly,50s
+318,62,Male,Bag,Sports,162.88,Chicago,S,Green,Summer,2,Yes,Standard,Yes,Yes,3,"Credit Card",Fortnightly,60+
+319,25,Female,Phone,Electronics,455.81,Chicago,L,Green,Winter,4,Yes,Standard,No,Yes,8,"Debit Card",Monthly,20s
+320,44,Female,Curtains,Accessories,436.50,Houston,S,Green,Spring,1,Yes,Standard,No,No,3,Cash,Monthly,40s
+321,44,Female,Bag,Clothing,283.53,Houston,L,White,Spring,3,No,Standard,No,No,6,PayPal,Weekly,40s
+322,51,Female,Laptop,Sports,169.15,"New York",XL,Blue,Summer,4,No,Express,No,No,4,"Credit Card",Fortnightly,50s
+323,38,Female,Bag,"Home Decor",153.76,Houston,S,Black,Spring,1,Yes,Express,No,Yes,9,"Debit Card",Fortnightly,30s
+324,47,Male,Phone,Clothing,26.37,"New York",XL,Red,Winter,2,Yes,Express,No,Yes,5,"Debit Card",Weekly,40s
+325,50,Female,Curtains,Electronics,409.75,"New York",M,Blue,Spring,5,No,Express,No,No,0,Cash,Weekly,50s
+326,45,Female,Bag,Accessories,230.69,"New York",L,Black,Fall,3,No,Standard,No,Yes,3,"Credit Card",Weekly,40s
+327,64,Male,T-Shirt,Clothing,169.32,"New York",M,White,Fall,4,No,Standard,No,Yes,4,"Credit Card",Fortnightly,60+
+328,50,Female,Curtains,"Home Decor",240.84,"Los Angeles",M,Black,Spring,1,No,Standard,No,No,5,"Credit Card",Weekly,50s
+329,22,Male,T-Shirt,"Home Decor",411.18,Chicago,M,Blue,Summer,4,No,Express,No,Yes,5,"Debit Card",Weekly,20s
+330,36,Male,T-Shirt,Electronics,71.06,"New York",L,Black,Fall,5,Yes,Standard,No,Yes,4,"Credit Card",Weekly,30s
+331,21,Male,Bag,Clothing,430.25,Chicago,XL,Red,Winter,4,Yes,Express,No,Yes,2,"Debit Card",Monthly,20s
+332,52,Male,Bag,Sports,449.78,"New York",M,White,Summer,4,Yes,Express,No,Yes,10,"Debit Card",Fortnightly,50s
+333,34,Male,Watch,Clothing,473.89,Chicago,S,Red,Spring,1,Yes,Express,No,No,14,"Credit Card",Fortnightly,30s
+334,61,Female,Watch,"Home Decor",204.77,Houston,L,White,Summer,5,No,Standard,No,Yes,1,UPI,Monthly,60+
+335,45,Male,Phone,Electronics,116.40,Houston,XL,White,Summer,3,Yes,Express,No,Yes,14,PayPal,Fortnightly,40s
+336,47,Male,Curtains,Electronics,193.08,Chicago,XL,Black,Summer,1,Yes,Express,Yes,Yes,6,PayPal,Weekly,40s
+337,46,Female,Watch,Sports,173.13,"New York",M,Red,Summer,5,Yes,Express,Yes,No,0,UPI,Monthly,40s
+338,63,Female,T-Shirt,Electronics,96.32,"Los Angeles",L,White,Spring,5,Yes,Express,No,No,11,"Credit Card",Weekly,60+
+339,23,Male,Watch,Electronics,307.56,Chicago,M,White,Spring,4,Yes,Express,No,No,11,"Debit Card",Weekly,20s
+340,52,Female,Laptop,Electronics,243.55,Miami,S,Black,Fall,2,No,Standard,Yes,No,4,Cash,Weekly,50s
+341,58,Female,Phone,Electronics,434.19,"Los Angeles",XL,Blue,Fall,2,Yes,Express,Yes,No,3,UPI,Weekly,50s
+342,54,Male,Curtains,Electronics,25.73,Miami,XL,Blue,Winter,3,Yes,Express,No,No,6,PayPal,Fortnightly,50s
+343,41,Male,Curtains,"Home Decor",325.50,Chicago,L,Green,Winter,4,No,Express,No,No,1,PayPal,Monthly,40s
+344,46,Female,Football,Clothing,383.84,"New York",XL,Green,Fall,2,No,Standard,Yes,Yes,10,"Debit Card",Monthly,40s
+345,63,Male,Curtains,Accessories,382.15,Miami,L,White,Fall,1,No,Express,No,Yes,12,PayPal,Weekly,60+
+346,48,Male,Phone,Electronics,444.18,Chicago,M,Blue,Summer,3,No,Standard,Yes,Yes,7,PayPal,Monthly,40s
+347,52,Female,Laptop,Accessories,367.23,"Los Angeles",S,White,Fall,4,Yes,Express,No,Yes,8,"Debit Card",Monthly,50s
+348,50,Male,Curtains,Accessories,464.63,"New York",L,Red,Winter,1,No,Standard,Yes,No,12,"Credit Card",Weekly,50s
+349,38,Male,Football,"Home Decor",173.00,Miami,M,Blue,Fall,2,Yes,Standard,No,Yes,14,PayPal,Weekly,30s
+350,49,Male,Phone,Electronics,256.57,Chicago,S,Blue,Summer,2,No,Standard,No,Yes,11,"Credit Card",Fortnightly,40s
+351,40,Male,T-Shirt,Accessories,16.90,"New York",XL,Blue,Winter,2,Yes,Express,Yes,No,9,Cash,Fortnightly,40s
+352,50,Male,Shoes,Electronics,13.41,"New York",S,Green,Spring,2,No,Express,No,Yes,14,"Credit Card",Weekly,50s
+353,20,Female,Shoes,Sports,127.66,Houston,S,Black,Fall,5,No,Express,Yes,No,0,"Debit Card",Fortnightly,20s
+354,35,Female,T-Shirt,Sports,59.40,"New York",S,Black,Spring,3,Yes,Express,Yes,No,4,"Debit Card",Fortnightly,30s
+355,42,Male,Watch,Sports,137.50,Chicago,XL,Green,Winter,3,Yes,Standard,Yes,Yes,3,"Debit Card",Monthly,40s
+356,59,Female,Curtains,Accessories,96.75,"Los Angeles",L,Green,Fall,2,No,Express,No,Yes,4,PayPal,Weekly,50s
+357,48,Male,Bag,Sports,23.97,Houston,L,Green,Spring,3,Yes,Express,Yes,No,8,UPI,Monthly,40s
+358,20,Male,Shoes,"Home Decor",455.56,Chicago,S,Black,Fall,1,Yes,Standard,No,Yes,14,PayPal,Monthly,20s
+359,57,Male,Watch,"Home Decor",14.03,Chicago,M,White,Spring,1,Yes,Standard,Yes,No,11,"Credit Card",Weekly,50s
+360,63,Male,Shoes,Accessories,370.68,Chicago,M,Green,Spring,3,Yes,Standard,Yes,Yes,2,Cash,Monthly,60+
+361,41,Male,T-Shirt,Electronics,84.55,Miami,S,White,Winter,2,No,Standard,Yes,Yes,13,Cash,Fortnightly,40s
+362,49,Female,Curtains,Clothing,456.99,Miami,S,White,Fall,4,Yes,Express,Yes,Yes,0,Cash,Fortnightly,40s
+363,64,Female,Curtains,Electronics,447.47,"Los Angeles",M,Red,Spring,2,No,Express,No,No,10,Cash,Fortnightly,60+
+364,39,Male,Watch,Electronics,330.41,Chicago,S,Black,Fall,5,Yes,Standard,No,No,2,UPI,Fortnightly,30s
+365,40,Female,T-Shirt,Electronics,339.39,Miami,S,White,Fall,4,No,Standard,No,Yes,3,Cash,Fortnightly,40s
+366,19,Male,Watch,Electronics,12.62,Miami,L,Black,Summer,5,No,Express,No,Yes,12,PayPal,Monthly,"below 20"
+367,44,Female,Curtains,Clothing,492.59,Miami,L,Black,Winter,3,No,Standard,No,No,14,Cash,Weekly,40s
+368,59,Male,Bag,Sports,440.14,"Los Angeles",S,Red,Fall,5,No,Standard,No,No,12,"Debit Card",Monthly,50s
+369,19,Female,Curtains,Electronics,448.60,"Los Angeles",S,Black,Fall,3,Yes,Standard,Yes,No,1,"Credit Card",Monthly,"below 20"
+370,43,Male,Phone,"Home Decor",333.03,Chicago,XL,White,Fall,5,Yes,Express,No,No,0,PayPal,Fortnightly,40s
+371,34,Male,Bag,Accessories,178.95,Houston,L,Blue,Winter,4,No,Express,No,Yes,0,UPI,Fortnightly,30s
+372,57,Female,Watch,Accessories,447.89,Chicago,S,White,Winter,5,Yes,Express,No,No,14,PayPal,Monthly,50s
+373,50,Female,Phone,"Home Decor",152.84,Miami,XL,White,Fall,2,Yes,Standard,No,No,7,"Debit Card",Monthly,50s
+374,26,Male,T-Shirt,Electronics,285.73,Miami,XL,Black,Winter,3,No,Express,No,No,3,Cash,Weekly,20s
+375,60,Female,Laptop,Clothing,58.87,"New York",XL,White,Summer,1,Yes,Standard,No,No,11,Cash,Weekly,60+
+376,56,Male,Shoes,Sports,461.76,Chicago,XL,Blue,Winter,5,Yes,Express,Yes,Yes,1,UPI,Weekly,50s
+377,46,Female,Phone,Accessories,78.98,Miami,L,Black,Summer,3,Yes,Standard,Yes,Yes,9,"Credit Card",Weekly,40s
+378,59,Female,Shoes,Sports,120.20,Miami,XL,Green,Summer,1,Yes,Standard,No,Yes,2,Cash,Weekly,50s
+379,43,Male,Football,Clothing,283.49,Houston,L,White,Summer,3,No,Express,Yes,No,7,UPI,Fortnightly,40s
+380,52,Female,T-Shirt,Accessories,384.41,"New York",XL,White,Spring,3,No,Express,No,No,5,Cash,Weekly,50s
+381,42,Female,Laptop,Sports,313.48,Chicago,XL,Red,Winter,1,Yes,Standard,Yes,Yes,7,PayPal,Monthly,40s
+382,41,Male,Football,Clothing,123.75,"Los Angeles",M,Green,Fall,1,No,Standard,No,Yes,9,UPI,Fortnightly,40s
+383,30,Female,Football,Sports,10.46,Chicago,L,Green,Summer,4,No,Standard,Yes,No,4,UPI,Monthly,30s
+384,24,Male,Curtains,Electronics,381.00,Chicago,M,Blue,Fall,5,No,Standard,Yes,No,2,UPI,Fortnightly,20s
+385,53,Male,Football,Clothing,492.75,Houston,M,Green,Summer,5,No,Standard,No,Yes,5,Cash,Fortnightly,50s
+386,62,Male,T-Shirt,Sports,406.86,Chicago,XL,Red,Fall,3,Yes,Express,No,No,9,UPI,Weekly,60+
+387,37,Male,Phone,Electronics,235.50,Houston,L,Blue,Spring,2,Yes,Standard,Yes,Yes,7,PayPal,Monthly,30s
+388,18,Male,T-Shirt,Electronics,452.85,Houston,S,Green,Summer,2,Yes,Express,No,No,13,"Credit Card",Weekly,"below 20"
+389,25,Female,Phone,Clothing,210.83,Miami,XL,Blue,Spring,3,No,Express,No,Yes,4,"Credit Card",Monthly,20s
+390,63,Male,Football,"Home Decor",267.22,"Los Angeles",L,Green,Spring,4,Yes,Express,No,No,4,"Debit Card",Monthly,60+
+391,33,Male,Football,Accessories,243.79,Houston,M,Green,Winter,1,Yes,Express,No,No,2,PayPal,Weekly,30s
+392,31,Female,Bag,Clothing,229.34,"New York",L,Green,Fall,3,Yes,Standard,No,No,2,PayPal,Weekly,30s
+393,29,Female,Laptop,Electronics,389.84,"New York",XL,White,Summer,5,No,Express,No,Yes,12,UPI,Fortnightly,20s
+394,40,Female,Phone,Electronics,268.12,"Los Angeles",L,Green,Spring,2,Yes,Express,Yes,No,11,"Debit Card",Fortnightly,40s
+395,32,Male,Football,Clothing,165.19,Houston,M,White,Fall,2,No,Express,No,No,14,PayPal,Fortnightly,30s
+396,45,Male,Curtains,"Home Decor",136.50,"Los Angeles",L,Black,Winter,2,No,Standard,No,No,7,PayPal,Monthly,40s
+397,51,Male,Bag,Accessories,28.50,Miami,L,Red,Fall,4,No,Express,Yes,Yes,10,PayPal,Weekly,50s
+398,19,Female,Shoes,Sports,295.77,"New York",M,Blue,Fall,5,No,Express,Yes,No,14,Cash,Fortnightly,"below 20"
+399,49,Male,Bag,Clothing,122.68,Chicago,XL,Blue,Winter,4,No,Express,Yes,Yes,0,PayPal,Weekly,40s
+400,40,Female,Laptop,Accessories,82.59,"New York",S,Black,Winter,1,Yes,Standard,No,No,3,Cash,Fortnightly,40s
+401,39,Male,T-Shirt,Accessories,330.38,Houston,M,Green,Winter,3,No,Standard,Yes,Yes,8,PayPal,Fortnightly,30s
+402,42,Female,Laptop,Electronics,343.79,"Los Angeles",M,Red,Spring,3,No,Standard,Yes,Yes,5,"Credit Card",Weekly,40s
+403,39,Male,Shoes,Sports,378.56,"New York",XL,Black,Fall,2,No,Express,Yes,No,5,Cash,Fortnightly,30s
+404,39,Male,Bag,Clothing,256.75,Chicago,XL,Black,Winter,2,Yes,Standard,Yes,Yes,13,Cash,Weekly,30s
+405,59,Male,Phone,Electronics,448.09,Chicago,L,Blue,Fall,1,Yes,Standard,Yes,No,9,UPI,Fortnightly,50s
+406,23,Female,T-Shirt,Electronics,468.81,"Los Angeles",M,White,Fall,4,Yes,Standard,Yes,No,10,PayPal,Weekly,20s
+407,32,Female,T-Shirt,"Home Decor",405.61,"Los Angeles",L,White,Spring,5,Yes,Express,Yes,No,10,"Debit Card",Fortnightly,30s
+408,60,Male,Phone,Accessories,321.44,"New York",L,Green,Fall,1,No,Standard,Yes,No,12,"Debit Card",Fortnightly,60+
+409,54,Male,Watch,Clothing,158.82,Houston,XL,Green,Spring,3,No,Express,No,Yes,6,"Debit Card",Monthly,50s
+410,50,Male,Watch,Clothing,491.64,Miami,XL,Black,Winter,3,Yes,Express,No,Yes,10,"Debit Card",Weekly,50s
+411,25,Female,Laptop,Clothing,144.33,Chicago,L,Green,Winter,4,No,Express,Yes,Yes,6,"Credit Card",Fortnightly,20s
+412,61,Male,Football,Electronics,109.30,"Los Angeles",M,White,Fall,1,Yes,Express,No,Yes,5,"Debit Card",Monthly,60+
+413,61,Male,Watch,"Home Decor",226.66,Miami,M,Red,Spring,5,Yes,Standard,No,Yes,8,UPI,Weekly,60+
+414,22,Male,Laptop,Sports,37.85,Miami,L,Blue,Spring,1,Yes,Standard,No,No,7,"Debit Card",Fortnightly,20s
+415,56,Male,Watch,Electronics,489.46,Miami,S,White,Summer,1,No,Express,Yes,No,11,UPI,Fortnightly,50s
+416,21,Female,Shoes,Sports,298.33,Houston,S,Green,Summer,4,Yes,Express,Yes,Yes,7,Cash,Fortnightly,20s
+417,23,Female,Curtains,"Home Decor",282.91,"Los Angeles",XL,Blue,Winter,5,Yes,Express,No,Yes,1,PayPal,Weekly,20s
+418,62,Male,Football,Accessories,331.34,Chicago,M,Blue,Winter,3,No,Express,Yes,No,6,"Debit Card",Monthly,60+
+419,49,Male,Laptop,Clothing,253.54,"Los Angeles",L,Black,Summer,2,No,Standard,No,Yes,14,UPI,Fortnightly,40s
+420,47,Female,Curtains,Sports,25.71,"New York",L,Green,Spring,5,No,Standard,Yes,Yes,11,UPI,Monthly,40s
+421,64,Female,Curtains,Electronics,310.03,Chicago,M,Black,Fall,3,No,Express,No,Yes,0,PayPal,Weekly,60+
+422,52,Male,Bag,Sports,360.93,"Los Angeles",XL,Blue,Fall,4,No,Standard,Yes,Yes,9,Cash,Weekly,50s
+423,57,Female,Watch,Accessories,214.21,Chicago,XL,Black,Spring,5,No,Standard,Yes,No,14,"Debit Card",Fortnightly,50s
+424,33,Female,Bag,Clothing,381.07,"New York",S,Green,Winter,5,Yes,Standard,No,No,7,UPI,Fortnightly,30s
+425,30,Male,Phone,Sports,121.23,Chicago,M,White,Fall,3,No,Standard,No,Yes,12,"Debit Card",Fortnightly,30s
+426,59,Female,Shoes,Accessories,118.43,Miami,M,Red,Spring,3,No,Express,No,No,2,"Credit Card",Monthly,50s
+427,47,Female,Shoes,Electronics,89.09,Houston,L,White,Fall,1,No,Standard,No,Yes,10,UPI,Monthly,40s
+428,36,Male,Shoes,"Home Decor",192.28,"New York",M,Blue,Spring,1,Yes,Express,Yes,No,12,Cash,Fortnightly,30s
+429,34,Male,Football,Electronics,425.04,Chicago,S,White,Summer,5,No,Standard,Yes,Yes,8,PayPal,Weekly,30s
+430,36,Female,T-Shirt,Clothing,415.68,"New York",M,Black,Summer,2,Yes,Standard,No,No,14,UPI,Weekly,30s
+431,45,Male,Football,Electronics,197.58,Miami,L,Green,Fall,4,Yes,Express,No,No,4,"Credit Card",Fortnightly,40s
+432,43,Female,Laptop,Electronics,298.67,Houston,S,White,Fall,3,Yes,Standard,Yes,No,6,PayPal,Monthly,40s
+433,54,Male,Curtains,Electronics,363.20,"New York",L,White,Fall,1,Yes,Express,Yes,Yes,13,Cash,Weekly,50s
+434,43,Female,Curtains,Electronics,128.19,Miami,M,Green,Fall,4,No,Standard,Yes,No,6,"Debit Card",Monthly,40s
+435,40,Male,Bag,Clothing,92.39,Miami,XL,Black,Summer,5,No,Express,Yes,No,8,"Debit Card",Fortnightly,40s
+436,26,Female,T-Shirt,Accessories,486.33,Miami,M,Red,Summer,3,No,Standard,No,Yes,1,UPI,Monthly,20s
+437,29,Female,Laptop,Sports,312.60,Chicago,M,White,Spring,3,No,Express,No,Yes,3,PayPal,Monthly,20s
+438,18,Female,T-Shirt,"Home Decor",490.89,"Los Angeles",L,Blue,Fall,1,No,Standard,Yes,Yes,11,"Credit Card",Monthly,"below 20"
+439,18,Male,Curtains,Sports,175.50,"New York",XL,Black,Summer,2,No,Express,Yes,Yes,7,"Credit Card",Weekly,"below 20"
+440,64,Male,Watch,Sports,354.49,"Los Angeles",M,Black,Winter,3,Yes,Standard,No,Yes,4,Cash,Monthly,60+
+441,51,Female,Football,"Home Decor",119.08,Miami,S,White,Spring,2,Yes,Express,No,No,10,PayPal,Monthly,50s
+442,49,Female,Shoes,Clothing,137.99,"Los Angeles",S,Green,Spring,4,No,Express,Yes,Yes,4,PayPal,Monthly,40s
+443,42,Male,Curtains,"Home Decor",260.83,Miami,L,White,Spring,3,No,Standard,No,Yes,2,"Debit Card",Fortnightly,40s
+444,57,Male,Phone,Clothing,166.61,Miami,L,White,Winter,3,No,Express,No,No,4,Cash,Monthly,50s
+445,62,Male,Shoes,Sports,92.13,Houston,XL,Green,Winter,2,No,Express,Yes,Yes,12,Cash,Monthly,60+
+446,18,Male,Curtains,Clothing,138.81,Houston,L,Blue,Winter,1,No,Standard,No,Yes,6,Cash,Weekly,"below 20"
+447,33,Male,Football,Accessories,27.52,"Los Angeles",XL,Green,Summer,5,No,Standard,Yes,No,3,PayPal,Fortnightly,30s
+448,56,Male,T-Shirt,"Home Decor",355.17,"New York",M,White,Winter,4,Yes,Standard,Yes,No,7,"Debit Card",Monthly,50s
+449,22,Female,Watch,Accessories,251.14,"Los Angeles",S,Red,Spring,3,Yes,Express,Yes,Yes,13,Cash,Weekly,20s
+450,39,Male,Watch,Sports,56.18,"New York",S,Green,Fall,1,No,Express,No,Yes,10,"Debit Card",Weekly,30s
+451,46,Female,Shoes,"Home Decor",94.13,"Los Angeles",S,Blue,Spring,3,No,Standard,No,No,5,Cash,Monthly,40s
+452,20,Male,Football,Sports,60.24,Chicago,L,Green,Spring,4,No,Express,No,Yes,5,PayPal,Weekly,20s
+453,29,Male,Watch,Accessories,310.17,Chicago,L,Green,Summer,5,Yes,Standard,Yes,No,5,"Debit Card",Weekly,20s
+454,43,Female,Watch,Sports,56.16,"New York",M,Black,Spring,3,Yes,Express,No,No,3,UPI,Weekly,40s
+455,33,Female,Laptop,"Home Decor",379.60,Houston,L,Black,Summer,2,Yes,Standard,No,No,13,Cash,Weekly,30s
+456,54,Male,Phone,"Home Decor",20.05,"New York",XL,White,Summer,1,Yes,Express,Yes,Yes,14,PayPal,Monthly,50s
+457,39,Female,Shoes,Sports,132.19,"Los Angeles",S,White,Fall,5,Yes,Standard,No,Yes,2,"Debit Card",Monthly,30s
+458,46,Female,T-Shirt,"Home Decor",446.43,Miami,M,Green,Spring,3,No,Standard,No,Yes,9,"Credit Card",Weekly,40s
+459,31,Female,Watch,"Home Decor",362.08,Chicago,XL,Red,Fall,5,No,Standard,Yes,No,5,PayPal,Monthly,30s
+460,45,Female,Laptop,Sports,45.75,Miami,XL,White,Fall,2,Yes,Express,No,Yes,5,PayPal,Monthly,40s
+461,22,Male,Football,Accessories,412.35,Chicago,L,Green,Spring,3,No,Express,No,Yes,1,"Credit Card",Weekly,20s
+462,64,Female,Watch,"Home Decor",251.59,"Los Angeles",L,Green,Spring,5,Yes,Express,No,No,13,"Credit Card",Weekly,60+
+463,47,Male,Bag,"Home Decor",424.92,Chicago,S,Green,Winter,3,Yes,Standard,No,Yes,9,UPI,Weekly,40s
+464,63,Male,Phone,"Home Decor",304.36,"New York",M,Green,Winter,3,Yes,Express,No,Yes,8,UPI,Monthly,60+
+465,22,Male,T-Shirt,"Home Decor",344.10,Miami,XL,Green,Summer,5,No,Express,No,No,3,UPI,Monthly,20s
+466,29,Male,Football,Sports,496.82,Miami,L,Black,Spring,3,No,Standard,Yes,No,3,PayPal,Fortnightly,20s
+467,33,Female,Football,Accessories,123.84,"Los Angeles",L,Blue,Summer,2,No,Standard,Yes,No,9,PayPal,Fortnightly,30s
+468,43,Female,Shoes,Accessories,315.73,Miami,M,Blue,Fall,5,No,Standard,Yes,Yes,12,PayPal,Weekly,40s
+469,43,Male,Watch,Clothing,235.56,"Los Angeles",M,Green,Fall,5,No,Standard,No,Yes,11,UPI,Fortnightly,40s
+470,38,Male,Shoes,"Home Decor",29.33,Houston,L,White,Winter,2,Yes,Express,Yes,Yes,10,"Debit Card",Monthly,30s
+471,56,Male,T-Shirt,"Home Decor",17.09,"New York",L,Red,Summer,2,Yes,Standard,Yes,No,11,PayPal,Fortnightly,50s
+472,53,Male,Bag,Clothing,68.42,Chicago,S,Green,Spring,2,Yes,Express,Yes,Yes,11,PayPal,Fortnightly,50s
+473,50,Female,Watch,Accessories,328.05,Chicago,M,Red,Spring,3,No,Standard,No,Yes,7,PayPal,Weekly,50s
+474,47,Male,Curtains,Electronics,287.91,Chicago,XL,Black,Winter,3,No,Express,Yes,Yes,2,UPI,Monthly,40s
+475,54,Female,Watch,Electronics,281.18,Houston,L,Blue,Winter,4,No,Standard,No,No,9,Cash,Monthly,50s
+476,40,Male,Bag,Accessories,25.61,"New York",L,Black,Summer,3,Yes,Standard,Yes,Yes,6,UPI,Monthly,40s
+477,27,Male,Curtains,"Home Decor",239.96,Miami,L,White,Winter,2,Yes,Standard,Yes,No,6,Cash,Monthly,20s
+478,22,Male,Football,Electronics,463.07,Miami,L,White,Winter,4,Yes,Standard,Yes,Yes,1,UPI,Fortnightly,20s
+479,53,Male,Shoes,Sports,204.82,"New York",S,Green,Winter,2,No,Standard,Yes,No,2,"Debit Card",Weekly,50s
+480,51,Female,Phone,Sports,316.21,"New York",M,White,Fall,1,No,Express,No,No,14,"Debit Card",Fortnightly,50s
+481,48,Female,Watch,Clothing,392.11,Chicago,L,White,Summer,5,Yes,Express,Yes,Yes,11,PayPal,Monthly,40s
+482,27,Female,Phone,Accessories,394.12,Miami,M,Black,Spring,1,Yes,Express,Yes,Yes,13,UPI,Weekly,20s
+483,36,Male,Watch,Accessories,264.45,"New York",XL,Red,Spring,2,Yes,Express,Yes,No,3,Cash,Weekly,30s
+484,49,Male,Football,Electronics,430.40,Miami,XL,Blue,Summer,3,Yes,Express,No,No,1,Cash,Monthly,40s
+485,18,Female,Shoes,"Home Decor",201.78,"New York",XL,White,Winter,5,No,Standard,Yes,Yes,13,"Debit Card",Monthly,"below 20"
+486,22,Female,T-Shirt,Accessories,445.46,"Los Angeles",XL,White,Winter,3,Yes,Standard,Yes,No,8,PayPal,Weekly,20s
+487,62,Male,T-Shirt,Electronics,127.71,Chicago,M,Black,Spring,3,No,Express,No,No,9,Cash,Monthly,60+
+488,21,Male,T-Shirt,Electronics,147.31,"New York",XL,Blue,Fall,5,No,Express,No,No,10,UPI,Monthly,20s
+489,33,Female,Watch,Accessories,36.03,Houston,XL,Black,Summer,5,No,Express,Yes,Yes,5,PayPal,Monthly,30s
+490,41,Male,Watch,Electronics,399.84,"New York",L,Red,Winter,1,No,Express,Yes,No,0,UPI,Monthly,40s
+491,33,Male,Phone,Clothing,214.36,"Los Angeles",L,Black,Fall,2,No,Express,Yes,Yes,14,UPI,Weekly,30s
+492,19,Female,Shoes,Clothing,122.27,Houston,L,Blue,Fall,3,Yes,Standard,Yes,Yes,0,"Debit Card",Weekly,"below 20"
+493,45,Male,Bag,Accessories,123.58,Houston,S,Blue,Winter,2,No,Express,No,Yes,7,UPI,Fortnightly,40s
+494,49,Female,Watch,"Home Decor",451.69,"New York",L,White,Summer,2,Yes,Standard,Yes,No,10,"Credit Card",Fortnightly,40s
+495,44,Male,Shoes,Clothing,418.62,"Los Angeles",XL,Red,Summer,4,Yes,Express,Yes,No,5,PayPal,Weekly,40s
+496,37,Female,Phone,Clothing,281.23,Houston,M,Green,Spring,1,No,Standard,Yes,No,12,"Credit Card",Fortnightly,30s
+497,41,Male,Watch,Accessories,311.89,Chicago,XL,White,Spring,3,Yes,Express,No,Yes,9,UPI,Monthly,40s
+498,29,Female,T-Shirt,Sports,242.42,Chicago,M,Black,Summer,5,Yes,Express,No,Yes,11,UPI,Monthly,20s
+499,52,Female,T-Shirt,Electronics,201.92,Miami,XL,Black,Winter,5,Yes,Standard,Yes,Yes,6,"Debit Card",Weekly,50s
+500,50,Female,Football,Clothing,458.58,Miami,S,Blue,Summer,2,Yes,Standard,No,Yes,5,"Debit Card",Fortnightly,50s
+501,50,Female,Curtains,Sports,71.55,"Los Angeles",L,Blue,Spring,1,No,Standard,Yes,Yes,1,"Debit Card",Monthly,50s
+502,60,Male,Laptop,"Home Decor",215.04,Houston,XL,Blue,Spring,1,Yes,Express,Yes,Yes,2,"Debit Card",Fortnightly,60+
+503,54,Male,Bag,Sports,178.84,Chicago,L,Green,Spring,3,Yes,Express,No,Yes,7,Cash,Weekly,50s
+504,29,Female,Curtains,Accessories,254.09,Chicago,S,Green,Summer,3,No,Express,No,Yes,3,"Debit Card",Weekly,20s
+505,20,Male,Watch,"Home Decor",234.24,"Los Angeles",S,White,Summer,2,No,Express,No,No,12,UPI,Fortnightly,20s
+506,18,Male,Shoes,"Home Decor",264.26,Houston,L,Green,Winter,2,No,Standard,Yes,No,14,UPI,Weekly,"below 20"
+507,50,Male,Watch,Sports,78.56,"Los Angeles",L,Blue,Spring,2,No,Standard,No,No,7,PayPal,Monthly,50s
+508,57,Male,Shoes,Accessories,261.44,"New York",M,White,Fall,4,No,Standard,Yes,No,2,"Credit Card",Monthly,50s
+509,27,Male,Shoes,Clothing,128.79,Chicago,L,White,Fall,1,Yes,Standard,No,Yes,1,Cash,Fortnightly,20s
+510,60,Female,Curtains,Sports,100.32,"Los Angeles",L,Red,Winter,2,No,Standard,Yes,No,6,Cash,Fortnightly,60+
+511,61,Female,Laptop,Clothing,41.77,"Los Angeles",M,Green,Winter,1,Yes,Standard,Yes,Yes,0,PayPal,Weekly,60+
+512,46,Female,Football,Sports,383.70,"New York",XL,Black,Spring,5,No,Standard,Yes,No,10,PayPal,Weekly,40s
+513,30,Female,Curtains,Clothing,219.45,Miami,M,Black,Summer,5,Yes,Express,No,Yes,2,"Debit Card",Fortnightly,30s
+514,29,Male,Laptop,Sports,317.06,Chicago,XL,Red,Summer,1,Yes,Express,No,No,1,PayPal,Weekly,20s
+515,48,Male,T-Shirt,"Home Decor",366.52,"Los Angeles",XL,Blue,Fall,5,No,Standard,No,No,4,Cash,Fortnightly,40s
+516,63,Female,T-Shirt,Electronics,342.87,Chicago,XL,Red,Spring,5,Yes,Standard,Yes,No,1,"Credit Card",Fortnightly,60+
+517,19,Male,Shoes,"Home Decor",240.55,Miami,M,Blue,Fall,5,No,Express,No,Yes,9,"Credit Card",Monthly,"below 20"
+518,52,Male,Phone,Clothing,200.07,"Los Angeles",M,Green,Fall,3,Yes,Standard,No,No,4,Cash,Weekly,50s
+519,40,Female,Watch,Accessories,194.22,"New York",S,Green,Spring,3,No,Express,No,No,12,"Debit Card",Fortnightly,40s
+520,34,Male,Watch,"Home Decor",323.62,Chicago,XL,White,Winter,1,Yes,Express,No,No,2,"Credit Card",Monthly,30s
+521,43,Female,Shoes,Electronics,252.45,"New York",M,White,Fall,1,Yes,Standard,Yes,No,8,"Credit Card",Fortnightly,40s
+522,25,Female,Phone,Clothing,426.07,Miami,S,White,Winter,4,No,Express,No,No,9,"Debit Card",Weekly,20s
+523,46,Male,Bag,"Home Decor",438.60,Miami,XL,White,Summer,3,No,Express,Yes,Yes,8,"Credit Card",Monthly,40s
+524,43,Male,Laptop,Sports,93.57,Chicago,M,Black,Fall,1,No,Express,Yes,Yes,7,UPI,Weekly,40s
+525,27,Female,Bag,Accessories,76.75,Miami,M,White,Spring,3,No,Standard,Yes,No,12,Cash,Monthly,20s
+526,43,Female,Bag,Clothing,318.90,Houston,M,White,Winter,4,No,Standard,Yes,Yes,4,"Credit Card",Weekly,40s
+527,51,Male,T-Shirt,"Home Decor",157.60,Chicago,L,White,Summer,1,No,Express,Yes,No,9,"Credit Card",Fortnightly,50s
+528,58,Female,Bag,Clothing,19.10,Houston,S,Blue,Summer,1,No,Standard,No,No,10,"Debit Card",Fortnightly,50s
+529,24,Female,Watch,Sports,445.43,Miami,M,White,Fall,1,No,Express,No,No,6,"Credit Card",Fortnightly,20s
+530,21,Female,Curtains,Electronics,121.18,Chicago,L,Red,Summer,1,No,Express,Yes,No,1,"Debit Card",Weekly,20s
+531,62,Male,Phone,"Home Decor",465.35,Houston,S,White,Spring,2,No,Standard,No,Yes,2,Cash,Monthly,60+
+532,28,Female,Laptop,Clothing,361.54,Miami,S,White,Fall,3,Yes,Express,Yes,No,11,UPI,Weekly,20s
+533,46,Male,T-Shirt,Clothing,383.70,"Los Angeles",L,Black,Summer,3,Yes,Express,Yes,No,10,PayPal,Fortnightly,40s
+534,53,Female,Bag,Clothing,108.72,"Los Angeles",S,White,Spring,3,No,Express,Yes,Yes,1,Cash,Weekly,50s
+535,42,Male,Curtains,Electronics,124.76,"New York",L,Blue,Winter,4,No,Express,Yes,No,9,"Credit Card",Monthly,40s
+536,38,Female,Phone,Clothing,265.42,"Los Angeles",XL,Green,Winter,2,Yes,Express,No,No,10,UPI,Fortnightly,30s
+537,53,Male,Shoes,Accessories,94.33,Houston,M,White,Fall,3,No,Express,Yes,Yes,0,PayPal,Weekly,50s
+538,27,Male,Shoes,Accessories,159.66,"Los Angeles",L,White,Spring,3,Yes,Express,No,Yes,2,PayPal,Fortnightly,20s
+539,54,Male,Shoes,Clothing,167.52,Chicago,S,White,Summer,1,Yes,Standard,No,No,3,"Credit Card",Weekly,50s
+540,26,Female,Watch,Accessories,88.22,Chicago,S,Black,Fall,1,Yes,Standard,No,No,11,PayPal,Weekly,20s
+541,41,Female,Laptop,"Home Decor",110.54,Chicago,XL,Green,Fall,1,Yes,Express,No,No,8,PayPal,Fortnightly,40s
+542,52,Female,Shoes,Accessories,396.39,"Los Angeles",XL,Black,Summer,3,Yes,Standard,Yes,Yes,11,Cash,Monthly,50s
+543,52,Male,Watch,Clothing,91.93,"Los Angeles",XL,Black,Spring,1,No,Express,No,No,1,Cash,Fortnightly,50s
+544,53,Female,Football,Sports,23.94,"New York",XL,Black,Summer,3,Yes,Express,Yes,No,8,PayPal,Monthly,50s
+545,35,Male,Watch,"Home Decor",318.38,Miami,XL,Blue,Winter,4,No,Express,No,No,0,"Debit Card",Fortnightly,30s
+546,56,Female,T-Shirt,Electronics,488.23,"New York",M,Green,Fall,4,Yes,Express,Yes,No,8,"Credit Card",Fortnightly,50s
+547,49,Male,Watch,Clothing,172.29,Houston,L,Blue,Winter,5,Yes,Standard,Yes,Yes,5,"Debit Card",Fortnightly,40s
+548,41,Male,Laptop,Electronics,68.14,Chicago,XL,Blue,Fall,2,Yes,Express,No,Yes,7,"Debit Card",Weekly,40s
+549,40,Male,Curtains,Sports,289.49,"Los Angeles",XL,Green,Summer,1,No,Express,No,No,2,PayPal,Weekly,40s
+550,49,Female,Bag,Electronics,454.11,Miami,M,Blue,Spring,1,Yes,Standard,No,Yes,7,"Credit Card",Monthly,40s
+551,54,Female,Watch,Clothing,394.19,Miami,L,Green,Summer,2,Yes,Standard,Yes,No,10,"Debit Card",Fortnightly,50s
+552,29,Female,Shoes,Clothing,315.03,"Los Angeles",XL,White,Winter,2,No,Standard,No,Yes,8,Cash,Weekly,20s
+553,30,Male,T-Shirt,Sports,164.38,"New York",L,Black,Spring,5,No,Standard,No,Yes,6,Cash,Weekly,30s
+554,40,Male,Phone,Clothing,275.52,Miami,L,Blue,Spring,2,Yes,Standard,No,Yes,3,"Credit Card",Fortnightly,40s
+555,42,Female,Shoes,Sports,54.71,"New York",M,Green,Fall,3,Yes,Standard,Yes,No,5,"Debit Card",Fortnightly,40s
+556,52,Female,T-Shirt,Sports,342.68,"Los Angeles",M,Red,Spring,1,Yes,Express,No,No,5,UPI,Fortnightly,50s
+557,58,Female,Football,Clothing,365.30,"New York",XL,Blue,Fall,2,No,Express,No,Yes,1,UPI,Monthly,50s
+558,47,Male,Bag,Accessories,482.87,Chicago,S,Blue,Spring,3,Yes,Standard,Yes,No,1,"Credit Card",Fortnightly,40s
+559,34,Male,Phone,Sports,137.59,"Los Angeles",M,Green,Spring,2,No,Standard,No,Yes,10,"Credit Card",Weekly,30s
+560,37,Male,Football,Clothing,19.04,"Los Angeles",L,Red,Fall,3,Yes,Express,Yes,No,4,UPI,Weekly,30s
+561,42,Male,Curtains,Accessories,277.35,Miami,L,Red,Spring,4,No,Standard,Yes,Yes,0,"Debit Card",Fortnightly,40s
+562,39,Male,T-Shirt,Sports,356.33,Miami,XL,White,Summer,3,No,Standard,Yes,Yes,4,"Debit Card",Monthly,30s
+563,30,Female,Football,Accessories,397.30,Miami,XL,Blue,Spring,5,Yes,Standard,Yes,No,9,PayPal,Monthly,30s
+564,36,Male,Bag,"Home Decor",104.93,Chicago,XL,Black,Winter,3,Yes,Express,Yes,No,14,"Credit Card",Weekly,30s
+565,53,Male,Bag,"Home Decor",138.26,Chicago,L,Blue,Fall,2,No,Standard,Yes,Yes,2,"Debit Card",Monthly,50s
+566,29,Male,Curtains,Accessories,261.17,Houston,M,Black,Fall,4,Yes,Express,Yes,No,2,UPI,Fortnightly,20s
+567,58,Male,Bag,Sports,171.99,"Los Angeles",S,Black,Summer,4,No,Express,Yes,Yes,7,UPI,Monthly,50s
+568,36,Male,T-Shirt,Clothing,431.65,Miami,M,Green,Winter,3,No,Express,Yes,Yes,10,Cash,Monthly,30s
+569,29,Female,T-Shirt,Electronics,242.14,"Los Angeles",S,Blue,Spring,2,Yes,Standard,Yes,No,2,"Debit Card",Weekly,20s
+570,26,Male,Bag,Clothing,401.79,"New York",M,Green,Summer,4,No,Standard,Yes,No,2,PayPal,Weekly,20s
+571,24,Male,Football,Electronics,294.50,Chicago,XL,White,Spring,3,Yes,Express,Yes,No,0,PayPal,Weekly,20s
+572,45,Male,T-Shirt,Electronics,388.81,Houston,L,Black,Summer,3,No,Express,Yes,No,13,"Credit Card",Monthly,40s
+573,31,Female,Shoes,Sports,173.01,"New York",S,Red,Fall,3,Yes,Standard,Yes,Yes,7,Cash,Weekly,30s
+574,48,Female,Bag,Accessories,417.39,"Los Angeles",M,Black,Winter,4,Yes,Express,No,Yes,12,UPI,Weekly,40s
+575,36,Female,T-Shirt,Clothing,144.54,Chicago,L,White,Fall,1,Yes,Standard,Yes,Yes,14,UPI,Monthly,30s
+576,64,Male,Laptop,Accessories,277.59,Miami,S,Black,Summer,2,No,Express,No,No,13,"Credit Card",Monthly,60+
+577,33,Female,Curtains,"Home Decor",114.86,"New York",S,Green,Spring,5,Yes,Standard,No,No,9,PayPal,Monthly,30s
+578,22,Male,Bag,Sports,243.01,Chicago,L,Blue,Winter,5,No,Standard,No,Yes,9,PayPal,Fortnightly,20s
+579,52,Male,T-Shirt,Sports,165.91,"Los Angeles",XL,Red,Spring,2,No,Express,No,No,5,UPI,Fortnightly,50s
+580,29,Female,Laptop,"Home Decor",140.68,"Los Angeles",L,Green,Fall,1,Yes,Express,No,No,10,"Credit Card",Monthly,20s
+581,42,Male,T-Shirt,Clothing,483.82,"New York",XL,Blue,Spring,2,No,Standard,No,No,7,"Debit Card",Weekly,40s
+582,38,Male,T-Shirt,"Home Decor",88.44,"New York",M,Red,Summer,3,Yes,Express,Yes,Yes,2,Cash,Monthly,30s
+583,53,Male,Football,Clothing,395.79,"New York",M,White,Winter,2,No,Express,No,Yes,13,PayPal,Fortnightly,50s
+584,40,Female,Shoes,Electronics,492.24,Houston,L,Black,Winter,2,No,Express,Yes,No,10,PayPal,Weekly,40s
+585,33,Male,Bag,Sports,19.75,Miami,XL,Red,Winter,4,Yes,Standard,Yes,Yes,5,PayPal,Fortnightly,30s
+586,56,Male,Curtains,Clothing,352.52,Chicago,M,White,Summer,5,Yes,Express,No,Yes,14,"Debit Card",Fortnightly,50s
+587,62,Female,Bag,Accessories,133.93,"Los Angeles",XL,Blue,Spring,5,No,Express,Yes,Yes,11,"Debit Card",Fortnightly,60+
+588,59,Male,Shoes,Accessories,29.84,"Los Angeles",XL,Red,Winter,3,Yes,Express,Yes,Yes,1,Cash,Fortnightly,50s
+589,56,Male,Phone,Sports,207.42,Miami,XL,White,Fall,3,Yes,Express,No,Yes,2,PayPal,Weekly,50s
+590,31,Female,Football,"Home Decor",468.26,"New York",L,Blue,Fall,4,No,Standard,Yes,No,12,UPI,Monthly,30s
+591,48,Male,Football,"Home Decor",15.76,"New York",XL,Green,Fall,3,Yes,Express,No,Yes,3,PayPal,Weekly,40s
+592,22,Male,Shoes,Clothing,298.06,"Los Angeles",L,Black,Fall,1,No,Standard,No,No,8,Cash,Monthly,20s
+593,52,Male,Watch,"Home Decor",255.68,Miami,M,White,Fall,4,Yes,Standard,No,No,14,Cash,Monthly,50s
+594,40,Male,Football,Sports,437.96,"Los Angeles",M,Green,Summer,4,Yes,Express,No,Yes,11,UPI,Weekly,40s
+595,46,Male,Bag,Clothing,51.16,"New York",S,Blue,Spring,2,No,Express,No,Yes,3,"Debit Card",Monthly,40s
+596,60,Female,Shoes,Electronics,343.95,Chicago,S,Red,Summer,2,No,Standard,Yes,Yes,6,UPI,Weekly,60+
+597,28,Female,Football,"Home Decor",343.25,"New York",M,Black,Fall,1,Yes,Express,No,Yes,11,Cash,Weekly,20s
+598,35,Female,T-Shirt,"Home Decor",337.85,Chicago,XL,Blue,Fall,4,Yes,Express,No,No,7,UPI,Monthly,30s
+599,64,Female,Shoes,Clothing,471.74,Houston,XL,White,Winter,4,No,Standard,Yes,No,4,PayPal,Monthly,60+
+600,29,Male,Shoes,Accessories,413.31,Miami,M,Black,Winter,2,Yes,Express,No,No,14,Cash,Fortnightly,20s
+601,26,Male,Bag,"Home Decor",30.57,Houston,M,Green,Spring,5,Yes,Express,No,Yes,1,"Debit Card",Monthly,20s
+602,27,Male,Laptop,Sports,240.83,"New York",S,Black,Spring,5,Yes,Express,No,No,14,"Debit Card",Monthly,20s
+603,61,Male,Football,"Home Decor",205.00,Miami,XL,Green,Spring,2,Yes,Standard,No,No,10,UPI,Monthly,60+
+604,34,Male,Football,Electronics,161.97,"New York",M,Blue,Summer,3,No,Express,No,Yes,7,UPI,Weekly,30s
+605,55,Female,Shoes,"Home Decor",231.15,Miami,S,Red,Winter,4,Yes,Standard,No,Yes,4,UPI,Fortnightly,50s
+606,24,Female,T-Shirt,Accessories,198.26,Miami,S,Black,Spring,1,No,Standard,No,Yes,4,PayPal,Fortnightly,20s
+607,63,Male,T-Shirt,"Home Decor",221.84,"New York",XL,Red,Winter,5,No,Standard,Yes,No,6,"Debit Card",Weekly,60+
+608,30,Male,Curtains,Clothing,489.84,"New York",S,Red,Winter,3,Yes,Express,No,Yes,5,Cash,Monthly,30s
+609,57,Male,T-Shirt,"Home Decor",53.43,Miami,S,Black,Winter,4,No,Express,Yes,No,2,Cash,Monthly,50s
+610,59,Female,Football,Accessories,461.89,Miami,L,Black,Winter,3,Yes,Standard,No,Yes,13,"Debit Card",Weekly,50s
+611,26,Male,Watch,Clothing,245.32,"New York",M,Red,Winter,4,Yes,Standard,No,No,13,UPI,Fortnightly,20s
+612,44,Male,Laptop,Sports,315.63,"New York",XL,White,Winter,4,No,Express,No,No,6,"Credit Card",Weekly,40s
+613,19,Male,Shoes,Clothing,416.79,"Los Angeles",M,White,Summer,2,No,Express,Yes,Yes,11,UPI,Weekly,"below 20"
+614,22,Female,Phone,Electronics,186.63,"Los Angeles",L,Black,Fall,2,No,Standard,Yes,No,13,"Debit Card",Monthly,20s
+615,46,Male,Laptop,Clothing,220.91,"Los Angeles",XL,Red,Winter,1,Yes,Express,Yes,Yes,0,PayPal,Weekly,40s
+616,54,Female,Bag,Sports,210.66,Houston,M,Red,Summer,1,Yes,Standard,No,Yes,3,UPI,Weekly,50s
+617,55,Female,Bag,"Home Decor",193.62,Miami,S,Blue,Spring,3,Yes,Standard,No,Yes,3,Cash,Weekly,50s
+618,36,Female,Watch,Clothing,463.51,Chicago,XL,Red,Summer,2,No,Express,Yes,No,5,PayPal,Monthly,30s
+619,25,Female,Phone,Clothing,416.18,Houston,L,White,Summer,4,No,Express,Yes,No,5,"Debit Card",Monthly,20s
+620,62,Female,Laptop,Clothing,63.41,Miami,S,Blue,Summer,2,No,Express,No,No,9,"Credit Card",Fortnightly,60+
+621,18,Female,T-Shirt,Clothing,62.98,Chicago,L,White,Winter,4,No,Standard,No,Yes,7,UPI,Fortnightly,"below 20"
+622,39,Male,Football,Sports,219.66,"Los Angeles",S,Green,Spring,2,No,Express,No,No,11,PayPal,Fortnightly,30s
+623,34,Male,Watch,Accessories,58.34,Chicago,M,Black,Summer,4,Yes,Express,Yes,No,0,PayPal,Monthly,30s
+624,24,Male,Phone,Accessories,313.36,"New York",M,Green,Spring,3,Yes,Standard,Yes,Yes,12,Cash,Fortnightly,20s
+625,42,Female,Watch,Clothing,80.41,"New York",M,Black,Summer,2,No,Standard,No,Yes,6,UPI,Weekly,40s
+626,62,Male,Laptop,Sports,265.96,Miami,L,White,Winter,5,No,Express,No,Yes,13,"Credit Card",Fortnightly,60+
+627,21,Female,Football,Sports,13.54,Houston,XL,White,Summer,5,No,Express,No,Yes,3,PayPal,Weekly,20s
+628,53,Female,Watch,Clothing,165.13,"Los Angeles",M,Green,Summer,4,No,Standard,Yes,Yes,12,Cash,Fortnightly,50s
+629,23,Female,Phone,Electronics,341.82,Miami,L,Black,Spring,3,Yes,Standard,No,Yes,5,UPI,Monthly,20s
+630,48,Male,Shoes,Clothing,247.18,"Los Angeles",S,Black,Spring,4,No,Express,Yes,Yes,9,UPI,Weekly,40s
+631,36,Female,Laptop,Electronics,489.35,"New York",M,Blue,Spring,3,No,Express,Yes,No,14,"Credit Card",Weekly,30s
+632,61,Female,Shoes,Clothing,438.31,Houston,S,Red,Fall,1,No,Standard,Yes,Yes,13,Cash,Monthly,60+
+633,56,Male,T-Shirt,Electronics,185.94,Houston,M,Blue,Spring,2,Yes,Express,No,Yes,8,"Credit Card",Weekly,50s
+634,44,Male,Shoes,Electronics,32.29,"New York",S,White,Summer,3,Yes,Standard,No,Yes,2,PayPal,Fortnightly,40s
+635,27,Female,Shoes,Clothing,424.36,Chicago,L,Green,Fall,4,No,Standard,Yes,Yes,7,"Debit Card",Monthly,20s
+636,43,Female,Curtains,Electronics,456.50,Houston,M,Black,Spring,1,Yes,Express,Yes,Yes,2,"Debit Card",Weekly,40s
+637,36,Male,Laptop,"Home Decor",412.11,Chicago,L,Blue,Winter,4,No,Express,No,No,5,"Credit Card",Monthly,30s
+638,56,Male,T-Shirt,Accessories,72.70,"Los Angeles",L,Green,Spring,5,No,Standard,Yes,Yes,1,"Credit Card",Weekly,50s
+639,20,Male,Shoes,Sports,498.98,Houston,S,Green,Winter,5,No,Standard,No,No,8,"Debit Card",Weekly,20s
+640,62,Female,Bag,Electronics,136.71,"New York",M,Red,Fall,2,Yes,Standard,No,No,13,PayPal,Monthly,60+
+641,30,Male,Football,Electronics,364.86,Chicago,XL,Black,Winter,2,No,Express,No,Yes,12,"Credit Card",Weekly,30s
+642,45,Male,Phone,Sports,454.94,"Los Angeles",XL,Green,Fall,1,No,Standard,No,Yes,1,PayPal,Fortnightly,40s
+643,37,Male,Shoes,Electronics,125.49,"Los Angeles",L,Black,Winter,5,Yes,Standard,Yes,Yes,11,PayPal,Fortnightly,30s
+644,45,Female,T-Shirt,Sports,455.05,Houston,S,Blue,Spring,3,Yes,Standard,No,No,4,Cash,Weekly,40s
+645,25,Male,Shoes,Clothing,161.65,Houston,S,Green,Fall,5,No,Express,Yes,Yes,5,PayPal,Weekly,20s
+646,58,Male,Phone,"Home Decor",488.44,Miami,S,Green,Summer,2,No,Standard,Yes,No,3,UPI,Fortnightly,50s
+647,56,Male,T-Shirt,"Home Decor",147.82,Miami,M,Blue,Summer,4,Yes,Express,Yes,No,11,"Debit Card",Weekly,50s
+648,18,Male,Laptop,Accessories,477.18,Houston,M,Black,Summer,1,Yes,Express,No,Yes,6,"Debit Card",Weekly,"below 20"
+649,20,Male,T-Shirt,Electronics,36.24,Miami,S,Black,Spring,5,Yes,Standard,No,Yes,12,"Credit Card",Monthly,20s
+650,30,Female,Laptop,Accessories,357.54,"New York",XL,Green,Summer,3,No,Standard,Yes,No,6,"Credit Card",Monthly,30s
+651,45,Female,T-Shirt,Clothing,270.73,"New York",XL,Blue,Fall,3,No,Standard,No,No,11,Cash,Fortnightly,40s
+652,42,Female,Bag,"Home Decor",244.16,Miami,M,White,Summer,3,Yes,Express,No,Yes,6,Cash,Fortnightly,40s
+653,50,Male,Watch,Clothing,119.51,Houston,S,Black,Fall,1,Yes,Standard,No,Yes,10,UPI,Monthly,50s
+654,55,Female,Phone,Clothing,355.74,"New York",XL,White,Summer,3,No,Express,No,No,6,"Credit Card",Monthly,50s
+655,23,Female,Phone,Electronics,103.50,"Los Angeles",XL,Green,Winter,3,Yes,Express,No,No,12,"Debit Card",Fortnightly,20s
+656,61,Female,T-Shirt,Clothing,280.89,Houston,M,White,Fall,5,No,Express,Yes,Yes,9,UPI,Fortnightly,60+
+657,62,Male,Watch,"Home Decor",134.09,Chicago,M,White,Summer,1,No,Express,No,No,10,"Credit Card",Fortnightly,60+
+658,49,Male,Shoes,Accessories,478.25,Chicago,XL,Black,Summer,4,No,Express,No,Yes,9,UPI,Monthly,40s
+659,62,Female,Phone,"Home Decor",24.03,Houston,S,Green,Summer,4,Yes,Express,Yes,Yes,8,PayPal,Monthly,60+
+660,64,Female,Bag,Electronics,107.87,Miami,XL,White,Fall,3,No,Standard,No,Yes,1,PayPal,Weekly,60+
+661,38,Male,Laptop,"Home Decor",128.73,"New York",XL,Black,Fall,2,Yes,Standard,Yes,No,4,UPI,Fortnightly,30s
+662,33,Male,Laptop,Sports,212.89,"New York",S,White,Summer,1,Yes,Express,Yes,No,9,"Credit Card",Weekly,30s
+663,38,Female,Football,Accessories,124.04,Houston,M,Black,Winter,2,Yes,Express,No,No,8,PayPal,Fortnightly,30s
+664,28,Male,Curtains,Sports,250.76,"Los Angeles",S,Green,Fall,1,Yes,Standard,Yes,Yes,11,PayPal,Monthly,20s
+665,54,Female,Watch,Sports,437.51,Miami,S,Blue,Fall,1,No,Standard,Yes,Yes,12,UPI,Fortnightly,50s
+666,53,Male,Curtains,Electronics,358.91,"Los Angeles",S,Black,Winter,5,No,Standard,No,Yes,13,PayPal,Fortnightly,50s
+667,52,Female,Curtains,Clothing,294.18,Houston,S,Black,Spring,3,No,Standard,Yes,No,10,"Debit Card",Monthly,50s
+668,36,Female,Laptop,Sports,53.61,Houston,M,White,Winter,5,Yes,Express,No,Yes,10,PayPal,Monthly,30s
+669,37,Male,Bag,"Home Decor",350.06,"Los Angeles",XL,Green,Summer,2,No,Standard,Yes,Yes,1,UPI,Fortnightly,30s
+670,35,Female,Bag,Clothing,91.54,Chicago,L,Red,Fall,2,No,Express,No,Yes,2,PayPal,Fortnightly,30s
+671,64,Female,Football,"Home Decor",395.32,Houston,M,Red,Fall,4,No,Express,Yes,No,6,PayPal,Fortnightly,60+
+672,58,Female,Curtains,"Home Decor",132.53,Miami,S,Blue,Fall,5,No,Standard,No,No,8,Cash,Fortnightly,50s
+673,31,Male,Curtains,Clothing,214.35,"Los Angeles",XL,Green,Fall,5,Yes,Standard,No,No,13,UPI,Fortnightly,30s
+674,32,Male,T-Shirt,Clothing,181.73,Chicago,XL,Black,Spring,5,Yes,Express,Yes,No,14,UPI,Monthly,30s
+675,48,Male,T-Shirt,"Home Decor",430.82,"Los Angeles",S,Red,Fall,4,No,Express,Yes,No,2,Cash,Fortnightly,40s
+676,18,Female,T-Shirt,Electronics,72.01,Chicago,M,Blue,Fall,5,Yes,Express,No,No,14,Cash,Monthly,"below 20"
+677,20,Male,Shoes,Accessories,287.17,Chicago,S,Green,Spring,5,Yes,Express,Yes,No,9,"Debit Card",Weekly,20s
+678,33,Female,Curtains,Accessories,79.61,Miami,XL,Blue,Summer,5,Yes,Standard,Yes,Yes,7,PayPal,Weekly,30s
+679,40,Female,Bag,Electronics,355.35,Houston,XL,Red,Summer,5,No,Standard,Yes,Yes,10,"Credit Card",Fortnightly,40s
+680,28,Male,Bag,Clothing,453.49,Chicago,M,White,Spring,2,No,Standard,No,Yes,14,"Credit Card",Weekly,20s
+681,29,Male,Shoes,"Home Decor",222.96,Houston,L,White,Summer,3,Yes,Standard,No,Yes,7,Cash,Monthly,20s
+682,27,Female,Bag,Accessories,249.17,Miami,S,Green,Summer,2,Yes,Standard,No,No,11,UPI,Weekly,20s
+683,49,Female,Football,"Home Decor",464.44,Houston,L,Blue,Winter,5,Yes,Express,Yes,No,3,UPI,Weekly,40s
+684,33,Male,Watch,Electronics,265.29,"New York",XL,Black,Winter,1,Yes,Express,Yes,Yes,10,"Debit Card",Monthly,30s
+685,25,Male,Laptop,"Home Decor",248.92,Chicago,L,Red,Winter,1,No,Standard,Yes,Yes,12,"Credit Card",Fortnightly,20s
+686,55,Male,Curtains,Electronics,293.38,Miami,S,White,Spring,4,Yes,Standard,No,No,5,UPI,Monthly,50s
+687,29,Female,Bag,Clothing,347.72,"Los Angeles",S,White,Fall,2,No,Express,No,No,10,"Debit Card",Monthly,20s
+688,41,Female,Laptop,Electronics,62.37,Miami,XL,Blue,Spring,4,Yes,Express,No,No,11,"Debit Card",Fortnightly,40s
+689,45,Female,Bag,Electronics,412.34,Chicago,M,White,Spring,4,No,Standard,No,Yes,7,Cash,Monthly,40s
+690,25,Female,Watch,Accessories,223.40,Miami,M,Blue,Spring,1,Yes,Standard,Yes,No,11,"Credit Card",Fortnightly,20s
+691,45,Female,T-Shirt,"Home Decor",45.45,"Los Angeles",XL,Red,Spring,2,No,Express,Yes,Yes,8,"Debit Card",Monthly,40s
+692,53,Male,Curtains,Accessories,395.23,"New York",S,Blue,Winter,3,No,Standard,Yes,No,1,"Debit Card",Weekly,50s
+693,43,Male,Phone,Sports,194.71,Chicago,M,White,Spring,2,Yes,Standard,No,No,0,"Debit Card",Fortnightly,40s
+694,25,Female,Shoes,Electronics,59.18,Chicago,L,Blue,Winter,4,Yes,Express,Yes,Yes,4,"Credit Card",Fortnightly,20s
+695,45,Female,Shoes,Sports,320.55,Miami,XL,White,Fall,5,No,Express,Yes,No,9,Cash,Weekly,40s
+696,45,Male,Curtains,Accessories,441.26,Houston,L,Green,Summer,4,No,Express,No,Yes,2,PayPal,Weekly,40s
+697,54,Male,Watch,"Home Decor",445.00,Houston,S,White,Winter,2,Yes,Standard,No,No,10,UPI,Fortnightly,50s
+698,58,Male,T-Shirt,Accessories,479.26,"Los Angeles",M,White,Spring,1,Yes,Express,Yes,No,12,"Credit Card",Weekly,50s
+699,53,Male,Shoes,"Home Decor",435.18,"New York",S,White,Fall,2,Yes,Standard,No,Yes,5,"Credit Card",Monthly,50s
+700,44,Female,T-Shirt,"Home Decor",11.05,"New York",L,Green,Spring,3,Yes,Express,Yes,No,11,"Credit Card",Monthly,40s
+701,34,Male,Football,Clothing,196.32,Miami,S,Black,Fall,5,No,Standard,Yes,No,13,PayPal,Monthly,30s
+702,26,Female,Laptop,Electronics,411.09,Miami,S,White,Summer,5,No,Standard,No,No,10,UPI,Weekly,20s
+703,50,Male,Watch,Accessories,189.46,Houston,XL,Black,Fall,4,No,Express,No,No,0,UPI,Weekly,50s
+704,37,Male,Phone,"Home Decor",304.76,"New York",XL,Red,Fall,2,Yes,Standard,Yes,No,11,"Debit Card",Weekly,30s
+705,30,Male,Laptop,Accessories,307.10,"New York",S,Blue,Summer,1,Yes,Standard,No,No,10,"Debit Card",Fortnightly,30s
+706,45,Female,Laptop,Accessories,188.86,"New York",XL,Black,Summer,3,Yes,Express,No,No,3,Cash,Monthly,40s
+707,46,Female,Football,"Home Decor",453.19,"Los Angeles",S,Red,Fall,4,No,Standard,Yes,No,5,"Credit Card",Fortnightly,40s
+708,30,Male,Shoes,Sports,256.58,"Los Angeles",L,Blue,Spring,2,Yes,Express,Yes,No,1,Cash,Fortnightly,30s
+709,63,Female,Phone,Electronics,237.74,Miami,XL,White,Winter,1,No,Standard,Yes,Yes,10,"Credit Card",Fortnightly,60+
+710,52,Female,Shoes,Electronics,498.78,Houston,S,White,Spring,2,Yes,Express,No,No,10,UPI,Monthly,50s
+711,23,Male,Curtains,Clothing,251.82,Chicago,XL,White,Winter,1,No,Express,No,No,7,Cash,Monthly,20s
+712,35,Male,Laptop,Clothing,97.42,Houston,S,Green,Summer,2,No,Standard,No,No,3,UPI,Monthly,30s
+713,22,Female,Curtains,Clothing,261.40,"Los Angeles",XL,Green,Spring,2,No,Express,Yes,Yes,1,"Debit Card",Weekly,20s
+714,64,Female,T-Shirt,Electronics,408.87,"Los Angeles",M,Green,Summer,4,Yes,Express,No,Yes,0,UPI,Monthly,60+
+715,42,Female,Laptop,Sports,390.66,Miami,S,Green,Fall,2,Yes,Standard,Yes,Yes,7,PayPal,Weekly,40s
+716,19,Male,Shoes,Electronics,396.41,Chicago,M,Red,Fall,2,Yes,Express,No,Yes,9,Cash,Weekly,"below 20"
+717,27,Male,Laptop,Electronics,356.93,"New York",S,Red,Spring,4,Yes,Express,Yes,Yes,0,"Credit Card",Weekly,20s
+718,47,Female,T-Shirt,Electronics,134.57,Chicago,M,White,Summer,4,No,Express,No,Yes,6,UPI,Monthly,40s
+719,62,Male,Football,Electronics,432.42,Chicago,S,Blue,Spring,5,No,Express,Yes,No,6,Cash,Monthly,60+
+720,22,Male,Curtains,Sports,447.79,Chicago,XL,Green,Spring,5,Yes,Standard,Yes,Yes,12,"Credit Card",Monthly,20s
+721,50,Female,Bag,Clothing,105.13,Miami,M,Blue,Winter,4,Yes,Express,Yes,No,5,Cash,Monthly,50s
+722,18,Female,Curtains,Accessories,73.92,"Los Angeles",XL,Red,Fall,3,Yes,Express,Yes,No,7,Cash,Fortnightly,"below 20"
+723,35,Male,Shoes,Clothing,488.05,"New York",S,Green,Spring,1,Yes,Express,No,No,9,PayPal,Monthly,30s
+724,49,Male,Laptop,Clothing,435.48,Chicago,XL,Red,Fall,4,No,Standard,No,Yes,0,UPI,Monthly,40s
+725,64,Female,Shoes,Accessories,447.69,"New York",S,Red,Winter,5,Yes,Standard,No,No,11,PayPal,Monthly,60+
+726,28,Male,Football,Electronics,444.32,Chicago,XL,Black,Summer,2,No,Express,No,No,0,"Debit Card",Monthly,20s
+727,38,Male,Laptop,Sports,275.43,"Los Angeles",M,Red,Spring,4,No,Express,No,Yes,12,Cash,Monthly,30s
+728,43,Female,Bag,Sports,326.74,"New York",S,White,Fall,4,No,Standard,Yes,Yes,0,UPI,Fortnightly,40s
+729,42,Female,Laptop,Clothing,277.23,Houston,XL,Red,Spring,5,Yes,Express,No,No,5,"Debit Card",Fortnightly,40s
+730,39,Male,Bag,Accessories,35.09,"Los Angeles",S,Green,Summer,5,Yes,Express,No,Yes,6,"Debit Card",Weekly,30s
+731,44,Male,Shoes,"Home Decor",375.30,"New York",S,White,Spring,3,Yes,Express,Yes,Yes,9,PayPal,Weekly,40s
+732,30,Male,Shoes,Electronics,257.61,Chicago,S,Red,Spring,5,Yes,Express,No,No,8,"Debit Card",Monthly,30s
+733,50,Female,T-Shirt,Clothing,327.38,Chicago,L,White,Fall,5,No,Standard,No,No,9,"Credit Card",Weekly,50s
+734,51,Male,Watch,Sports,256.29,"Los Angeles",S,Red,Summer,5,Yes,Standard,No,No,4,"Credit Card",Fortnightly,50s
+735,58,Male,Watch,Accessories,250.99,"Los Angeles",XL,White,Winter,2,No,Standard,Yes,No,0,"Credit Card",Monthly,50s
+736,52,Female,Football,Accessories,94.18,Chicago,L,Blue,Summer,4,Yes,Standard,Yes,No,8,"Debit Card",Weekly,50s
+737,18,Female,Watch,Clothing,146.57,"New York",XL,Black,Summer,4,No,Standard,No,No,4,Cash,Weekly,"below 20"
+738,38,Male,T-Shirt,"Home Decor",87.84,Houston,L,White,Winter,5,No,Express,Yes,No,5,UPI,Fortnightly,30s
+739,23,Female,Curtains,Sports,105.88,Miami,S,Green,Spring,3,No,Standard,No,No,8,"Credit Card",Monthly,20s
+740,45,Female,Bag,Clothing,486.76,"Los Angeles",M,Black,Fall,5,Yes,Express,Yes,Yes,1,"Credit Card",Weekly,40s
+741,34,Male,Laptop,"Home Decor",85.03,Chicago,M,Black,Spring,3,No,Standard,Yes,Yes,13,"Credit Card",Fortnightly,30s
+742,22,Female,Shoes,Accessories,141.94,"New York",S,Red,Spring,4,No,Express,No,Yes,2,PayPal,Monthly,20s
+743,48,Female,Laptop,Electronics,299.39,"Los Angeles",L,White,Winter,3,Yes,Standard,Yes,Yes,13,PayPal,Fortnightly,40s
+744,22,Male,Laptop,Sports,308.99,"New York",XL,Black,Winter,3,No,Standard,No,Yes,6,"Credit Card",Monthly,20s
+745,55,Female,Phone,Sports,85.45,"Los Angeles",M,Green,Spring,1,Yes,Express,Yes,No,2,"Credit Card",Monthly,50s
+746,20,Male,Curtains,"Home Decor",398.92,Chicago,S,Green,Summer,3,Yes,Express,No,Yes,14,PayPal,Monthly,20s
+747,40,Male,Phone,Clothing,394.75,"New York",S,Green,Fall,3,No,Express,Yes,Yes,1,UPI,Fortnightly,40s
+748,54,Female,Watch,Accessories,126.29,Chicago,L,Red,Summer,2,No,Standard,No,No,6,Cash,Monthly,50s
+749,54,Female,Laptop,"Home Decor",151.45,"New York",M,Blue,Spring,4,Yes,Standard,No,Yes,7,UPI,Weekly,50s
+750,27,Female,Bag,Electronics,469.61,"Los Angeles",S,White,Spring,5,No,Express,No,No,8,Cash,Monthly,20s
+751,27,Male,Shoes,Electronics,414.58,Miami,M,Black,Fall,1,Yes,Standard,No,Yes,1,"Debit Card",Monthly,20s
+752,36,Female,Bag,Electronics,351.92,Miami,XL,White,Summer,3,Yes,Express,Yes,Yes,12,"Debit Card",Fortnightly,30s
+753,34,Male,Laptop,"Home Decor",50.29,Houston,S,Black,Spring,2,No,Standard,No,No,1,UPI,Monthly,30s
+754,38,Female,Curtains,Accessories,214.95,Houston,S,Red,Spring,2,Yes,Express,Yes,Yes,10,PayPal,Weekly,30s
+755,31,Female,Bag,Sports,284.06,Chicago,XL,White,Winter,5,No,Express,Yes,Yes,6,"Credit Card",Weekly,30s
+756,26,Female,Phone,Clothing,101.83,"New York",S,Red,Fall,5,No,Standard,No,Yes,13,"Debit Card",Monthly,20s
+757,63,Male,Shoes,Sports,229.63,Houston,L,Red,Winter,4,Yes,Express,No,No,14,PayPal,Fortnightly,60+
+758,18,Female,Laptop,Accessories,304.50,"Los Angeles",XL,White,Winter,3,No,Standard,No,No,3,PayPal,Weekly,"below 20"
+759,62,Female,Football,Sports,170.41,Miami,L,White,Winter,2,No,Standard,No,No,4,Cash,Fortnightly,60+
+760,30,Male,Curtains,"Home Decor",392.66,"New York",XL,Black,Spring,1,No,Standard,Yes,No,0,"Debit Card",Monthly,30s
+761,21,Male,Curtains,Electronics,421.82,Miami,XL,Green,Summer,4,No,Express,No,No,14,UPI,Fortnightly,20s
+762,18,Female,Football,Accessories,168.57,"New York",L,Red,Winter,3,No,Express,No,Yes,5,PayPal,Monthly,"below 20"
+763,57,Female,Bag,Accessories,420.94,Houston,XL,Blue,Summer,5,No,Express,No,Yes,9,UPI,Monthly,50s
+764,49,Female,Laptop,Sports,60.75,Houston,M,Black,Spring,3,Yes,Standard,No,No,12,UPI,Fortnightly,40s
+765,51,Male,Curtains,"Home Decor",420.49,Chicago,L,Black,Winter,5,No,Standard,Yes,No,7,"Debit Card",Weekly,50s
+766,45,Male,Shoes,Sports,84.85,"New York",XL,Green,Spring,3,Yes,Express,Yes,Yes,10,UPI,Monthly,40s
+767,48,Male,Laptop,Sports,50.63,"Los Angeles",L,Green,Winter,1,Yes,Standard,Yes,No,14,UPI,Monthly,40s
+768,25,Male,Laptop,Accessories,324.47,Houston,XL,Red,Winter,4,No,Standard,No,Yes,0,"Credit Card",Monthly,20s
+769,56,Female,Phone,Sports,241.25,Chicago,XL,Black,Spring,5,No,Standard,Yes,No,1,UPI,Weekly,50s
+770,43,Male,Curtains,Electronics,454.87,Houston,M,Black,Fall,1,Yes,Express,No,No,6,"Credit Card",Weekly,40s
+771,51,Male,Curtains,Sports,187.96,Miami,M,Blue,Fall,2,Yes,Express,Yes,Yes,13,"Debit Card",Monthly,50s
+772,20,Male,Football,Electronics,150.70,Houston,M,Red,Summer,1,No,Express,No,Yes,1,UPI,Weekly,20s
+773,29,Female,Phone,Accessories,255.36,"New York",XL,Red,Summer,1,Yes,Standard,Yes,No,8,PayPal,Fortnightly,20s
+774,18,Female,Bag,"Home Decor",233.41,Chicago,M,Green,Spring,1,Yes,Standard,No,No,5,UPI,Fortnightly,"below 20"
+775,61,Male,Watch,Electronics,178.77,"New York",L,Red,Spring,5,No,Express,No,Yes,11,"Credit Card",Fortnightly,60+
+776,22,Male,Bag,"Home Decor",349.93,"Los Angeles",XL,Blue,Spring,2,Yes,Express,Yes,Yes,11,PayPal,Fortnightly,20s
+777,47,Female,Bag,"Home Decor",382.19,"Los Angeles",L,Red,Fall,4,Yes,Express,No,No,4,"Debit Card",Monthly,40s
+778,47,Female,Phone,Electronics,427.96,Houston,M,White,Fall,1,No,Standard,Yes,Yes,6,Cash,Fortnightly,40s
+779,34,Female,Curtains,Accessories,486.70,Chicago,XL,White,Winter,5,No,Express,Yes,No,9,Cash,Weekly,30s
+780,64,Female,Laptop,Clothing,140.66,Chicago,L,Blue,Winter,5,No,Express,Yes,No,7,"Credit Card",Monthly,60+
+781,40,Female,Phone,"Home Decor",360.89,Chicago,S,Green,Spring,4,No,Express,No,No,12,"Debit Card",Weekly,40s
+782,32,Female,Football,"Home Decor",203.19,Chicago,L,Black,Spring,3,Yes,Standard,Yes,No,8,"Debit Card",Fortnightly,30s
+783,54,Female,Phone,Accessories,341.77,Houston,XL,Red,Summer,2,Yes,Express,No,No,5,UPI,Monthly,50s
+784,38,Female,Football,Accessories,243.23,"New York",S,Green,Fall,2,Yes,Standard,No,No,4,Cash,Monthly,30s
+785,31,Male,Bag,Sports,496.95,Houston,M,Green,Spring,1,Yes,Express,Yes,No,6,UPI,Monthly,30s
+786,19,Male,Watch,Accessories,367.16,"New York",M,Red,Fall,3,Yes,Standard,Yes,Yes,1,"Debit Card",Fortnightly,"below 20"
+787,28,Male,Phone,"Home Decor",476.72,Miami,L,Black,Spring,2,No,Express,No,Yes,14,"Credit Card",Weekly,20s
+788,56,Male,Football,Electronics,419.14,Miami,M,Red,Winter,1,Yes,Express,No,No,7,"Credit Card",Monthly,50s
+789,55,Male,Phone,Clothing,452.42,"New York",L,Black,Spring,3,Yes,Standard,Yes,Yes,11,PayPal,Weekly,50s
+790,51,Male,Watch,Sports,409.07,Houston,L,Blue,Winter,5,No,Express,No,No,3,"Credit Card",Fortnightly,50s
+791,55,Female,Bag,Electronics,234.99,"Los Angeles",L,Black,Summer,1,Yes,Express,No,No,0,Cash,Fortnightly,50s
+792,51,Female,Phone,Clothing,133.38,Houston,L,Green,Summer,3,Yes,Express,No,Yes,2,PayPal,Weekly,50s
+793,35,Male,Shoes,Clothing,191.46,"Los Angeles",XL,Blue,Summer,4,No,Express,Yes,Yes,12,Cash,Monthly,30s
+794,47,Male,Football,Clothing,19.92,Houston,XL,White,Spring,2,No,Standard,Yes,No,8,UPI,Weekly,40s
+795,32,Female,Watch,Electronics,266.76,Chicago,S,Blue,Summer,1,Yes,Standard,Yes,Yes,3,UPI,Monthly,30s
+796,44,Female,Football,Sports,257.48,Chicago,S,Black,Spring,5,No,Standard,No,No,14,"Credit Card",Monthly,40s
+797,51,Female,Football,Sports,267.37,Miami,M,Blue,Fall,1,Yes,Standard,Yes,Yes,9,PayPal,Weekly,50s
+798,55,Male,T-Shirt,Clothing,487.28,Miami,XL,Blue,Winter,2,Yes,Standard,Yes,No,9,Cash,Monthly,50s
+799,50,Female,Watch,Electronics,456.61,"New York",S,White,Fall,2,No,Standard,No,No,13,Cash,Monthly,50s
+800,41,Male,Phone,Clothing,89.24,"Los Angeles",XL,Black,Spring,3,Yes,Standard,Yes,No,10,"Debit Card",Monthly,40s
+801,32,Male,Football,Accessories,190.75,Chicago,XL,Green,Summer,5,No,Standard,Yes,Yes,2,"Credit Card",Fortnightly,30s
+802,47,Female,Curtains,Sports,217.74,Houston,M,Blue,Winter,3,No,Express,Yes,No,3,UPI,Monthly,40s
+803,59,Female,T-Shirt,"Home Decor",186.66,"New York",M,Red,Summer,5,Yes,Express,No,No,2,"Debit Card",Weekly,50s
+804,34,Male,Shoes,Clothing,401.26,Houston,L,Green,Fall,1,Yes,Standard,No,Yes,2,UPI,Fortnightly,30s
+805,22,Female,Football,Accessories,266.78,Chicago,XL,Blue,Spring,1,No,Standard,Yes,Yes,1,UPI,Monthly,20s
+806,46,Female,Bag,Sports,290.33,Chicago,L,Green,Winter,3,No,Standard,No,No,5,Cash,Fortnightly,40s
+807,21,Male,Football,Electronics,427.98,Chicago,L,Red,Winter,4,No,Express,Yes,Yes,12,UPI,Weekly,20s
+808,27,Female,T-Shirt,Sports,404.90,Chicago,L,Green,Spring,2,No,Standard,Yes,No,14,PayPal,Fortnightly,20s
+809,34,Male,Phone,Electronics,74.78,Houston,XL,Green,Spring,3,Yes,Standard,Yes,No,9,UPI,Fortnightly,30s
+810,27,Male,Curtains,Electronics,359.82,"New York",XL,Red,Winter,3,No,Standard,Yes,No,5,PayPal,Monthly,20s
+811,34,Female,Bag,Clothing,223.36,Chicago,L,Red,Fall,1,Yes,Standard,No,Yes,9,UPI,Weekly,30s
+812,37,Male,Shoes,Clothing,154.38,Miami,XL,Red,Fall,2,No,Express,Yes,Yes,3,"Debit Card",Weekly,30s
+813,41,Male,Bag,Sports,34.51,"New York",L,White,Summer,3,No,Standard,No,Yes,13,Cash,Fortnightly,40s
+814,22,Female,Football,Accessories,248.75,Miami,S,Red,Winter,1,Yes,Express,No,No,7,"Debit Card",Monthly,20s
+815,51,Female,Phone,Sports,184.16,Houston,XL,Green,Spring,1,Yes,Express,Yes,No,5,Cash,Fortnightly,50s
+816,23,Female,Watch,"Home Decor",133.24,Chicago,M,Red,Spring,3,No,Express,Yes,No,11,"Debit Card",Fortnightly,20s
+817,19,Male,Curtains,Electronics,350.39,"New York",M,Blue,Spring,3,Yes,Standard,Yes,Yes,7,"Credit Card",Fortnightly,"below 20"
+818,30,Male,Watch,Electronics,387.05,Chicago,L,Red,Spring,1,Yes,Express,Yes,Yes,5,UPI,Monthly,30s
+819,60,Female,Curtains,Clothing,129.95,Chicago,S,Red,Winter,3,Yes,Standard,No,No,14,UPI,Fortnightly,60+
+820,60,Male,Shoes,Accessories,34.23,"New York",XL,Black,Fall,2,Yes,Standard,No,Yes,12,"Credit Card",Monthly,60+
+821,28,Female,Laptop,Clothing,425.89,Chicago,L,Green,Summer,1,No,Standard,No,Yes,8,"Credit Card",Weekly,20s
+822,64,Female,Curtains,"Home Decor",14.88,Chicago,S,Green,Fall,1,Yes,Standard,No,Yes,2,PayPal,Fortnightly,60+
+823,40,Male,Laptop,Sports,469.19,"Los Angeles",S,Blue,Summer,3,No,Standard,Yes,Yes,13,"Debit Card",Weekly,40s
+824,33,Female,Watch,Sports,317.53,"Los Angeles",XL,White,Spring,3,No,Standard,Yes,No,2,UPI,Fortnightly,30s
+825,48,Male,Curtains,Accessories,167.70,"New York",M,Black,Spring,3,No,Standard,No,No,1,PayPal,Weekly,40s
+826,28,Male,Shoes,Clothing,130.77,"New York",M,Blue,Winter,2,No,Standard,No,No,9,UPI,Monthly,20s
+827,33,Female,T-Shirt,Clothing,14.41,Chicago,S,Blue,Spring,1,Yes,Express,No,Yes,13,"Credit Card",Fortnightly,30s
+828,25,Male,Shoes,"Home Decor",125.38,Miami,M,Green,Winter,4,No,Standard,Yes,Yes,13,PayPal,Fortnightly,20s
+829,21,Female,Shoes,Sports,77.49,"New York",S,Black,Winter,2,No,Express,Yes,Yes,5,PayPal,Monthly,20s
+830,57,Male,T-Shirt,Clothing,309.96,Chicago,S,Green,Winter,2,Yes,Standard,No,No,6,PayPal,Weekly,50s
+831,21,Male,T-Shirt,Accessories,91.61,Miami,S,White,Spring,1,Yes,Express,Yes,Yes,6,"Debit Card",Weekly,20s
+832,42,Male,Phone,Sports,269.03,"Los Angeles",M,Green,Spring,4,Yes,Express,No,No,4,PayPal,Monthly,40s
+833,20,Female,Curtains,"Home Decor",299.16,"New York",L,Red,Fall,1,No,Standard,No,No,5,UPI,Weekly,20s
+834,49,Male,Watch,Accessories,156.04,Chicago,M,Green,Summer,2,Yes,Express,Yes,No,6,"Debit Card",Monthly,40s
+835,20,Female,Phone,Electronics,27.18,"Los Angeles",L,Red,Fall,3,No,Standard,Yes,Yes,10,UPI,Weekly,20s
+836,44,Male,T-Shirt,"Home Decor",28.25,Houston,M,Blue,Spring,1,No,Express,No,No,1,PayPal,Monthly,40s
+837,46,Male,Laptop,Accessories,22.91,"Los Angeles",XL,White,Summer,1,No,Standard,Yes,No,9,PayPal,Monthly,40s
+838,49,Female,Watch,Clothing,372.17,Chicago,XL,Red,Winter,3,Yes,Express,Yes,Yes,14,UPI,Monthly,40s
+839,36,Female,Laptop,Electronics,165.82,Miami,M,White,Summer,4,No,Express,Yes,No,13,Cash,Monthly,30s
+840,38,Female,Shoes,"Home Decor",400.19,Houston,XL,Green,Winter,4,No,Standard,Yes,Yes,11,PayPal,Weekly,30s
+841,22,Female,Football,Clothing,221.55,Houston,XL,Green,Spring,1,Yes,Express,Yes,No,6,PayPal,Fortnightly,20s
+842,35,Female,Shoes,Electronics,231.97,Houston,XL,Blue,Summer,3,No,Standard,Yes,Yes,0,"Debit Card",Weekly,30s
+843,45,Male,Shoes,Sports,261.31,"New York",XL,Green,Winter,1,Yes,Standard,No,No,5,UPI,Monthly,40s
+844,59,Male,Football,Clothing,359.39,Chicago,L,Red,Fall,3,Yes,Express,No,No,7,PayPal,Fortnightly,50s
+845,39,Female,Curtains,Accessories,144.02,Houston,S,Blue,Fall,2,Yes,Express,No,No,12,UPI,Fortnightly,30s
+846,38,Male,T-Shirt,"Home Decor",69.58,"Los Angeles",L,White,Winter,3,Yes,Express,No,Yes,0,"Debit Card",Weekly,30s
+847,23,Male,Laptop,Electronics,282.47,Miami,S,Blue,Fall,1,Yes,Standard,Yes,Yes,0,UPI,Monthly,20s
+848,18,Male,Shoes,Clothing,170.22,Chicago,S,White,Fall,5,Yes,Standard,No,Yes,5,UPI,Monthly,"below 20"
+849,22,Female,Football,Sports,226.82,"Los Angeles",M,Black,Summer,4,No,Standard,Yes,No,4,"Debit Card",Monthly,20s
+850,58,Male,Phone,"Home Decor",327.00,"New York",M,Red,Fall,1,Yes,Standard,No,Yes,14,PayPal,Monthly,50s
+851,29,Male,Shoes,"Home Decor",252.12,Houston,M,Red,Summer,3,No,Express,No,Yes,2,UPI,Monthly,20s
+852,43,Male,Laptop,Clothing,313.94,"Los Angeles",M,White,Spring,3,No,Standard,Yes,Yes,13,Cash,Fortnightly,40s
+853,63,Female,T-Shirt,Sports,276.66,Chicago,M,Green,Fall,4,No,Standard,Yes,Yes,9,PayPal,Weekly,60+
+854,51,Male,Shoes,Electronics,372.50,"Los Angeles",L,Green,Spring,1,No,Express,No,No,12,"Debit Card",Weekly,50s
+855,31,Male,Shoes,Clothing,355.91,"New York",L,Black,Fall,5,Yes,Express,Yes,No,9,"Credit Card",Weekly,30s
+856,43,Female,Curtains,Electronics,271.75,Miami,XL,White,Winter,2,No,Express,Yes,No,6,Cash,Fortnightly,40s
+857,62,Female,Bag,"Home Decor",342.66,Houston,L,Black,Winter,5,Yes,Standard,Yes,No,6,PayPal,Fortnightly,60+
+858,44,Male,Football,Electronics,438.04,Chicago,L,White,Spring,2,No,Express,Yes,No,6,"Debit Card",Weekly,40s
+859,26,Male,Phone,Sports,221.81,Houston,M,Black,Spring,2,Yes,Express,No,No,13,Cash,Fortnightly,20s
+860,43,Female,Phone,Accessories,212.25,Houston,XL,White,Spring,1,Yes,Standard,Yes,Yes,14,PayPal,Fortnightly,40s
+861,64,Female,Watch,Sports,384.48,Houston,L,Red,Winter,2,No,Standard,No,No,5,"Credit Card",Weekly,60+
+862,39,Female,T-Shirt,Electronics,295.45,"Los Angeles",L,Black,Spring,3,Yes,Standard,No,Yes,3,PayPal,Fortnightly,30s
+863,64,Female,Watch,Clothing,44.79,"Los Angeles",XL,Black,Winter,2,Yes,Standard,No,No,8,"Credit Card",Monthly,60+
+864,47,Female,Laptop,"Home Decor",447.13,Miami,S,White,Spring,2,Yes,Express,No,Yes,11,"Credit Card",Weekly,40s
+865,60,Female,T-Shirt,Accessories,25.08,"New York",M,Blue,Summer,4,Yes,Standard,No,No,14,UPI,Weekly,60+
+866,34,Female,Shoes,Clothing,376.71,Chicago,L,Blue,Summer,4,No,Express,No,No,8,"Debit Card",Weekly,30s
+867,43,Male,Bag,Clothing,381.81,"Los Angeles",L,Red,Fall,1,No,Express,No,No,6,UPI,Weekly,40s
+868,53,Female,Shoes,Sports,477.02,Houston,XL,Green,Summer,1,No,Standard,Yes,No,6,"Credit Card",Fortnightly,50s
+869,18,Female,Phone,Electronics,36.53,"New York",L,Green,Spring,3,No,Standard,No,Yes,7,"Debit Card",Weekly,"below 20"
+870,25,Male,Laptop,Sports,302.46,Chicago,M,Red,Summer,4,Yes,Standard,Yes,Yes,10,"Debit Card",Monthly,20s
+871,52,Female,Football,Electronics,219.64,Chicago,L,Green,Summer,5,No,Standard,Yes,No,4,"Debit Card",Fortnightly,50s
+872,32,Female,Laptop,Sports,172.01,Chicago,S,White,Spring,1,No,Express,No,No,10,Cash,Fortnightly,30s
+873,64,Male,Shoes,Clothing,54.26,Chicago,M,Blue,Summer,1,Yes,Standard,No,Yes,8,PayPal,Weekly,60+
+874,39,Female,Football,"Home Decor",285.70,Miami,S,Red,Spring,4,Yes,Standard,No,No,5,"Credit Card",Fortnightly,30s
+875,31,Male,Laptop,Electronics,244.73,Chicago,XL,White,Summer,4,No,Express,Yes,No,6,"Debit Card",Fortnightly,30s
+876,43,Male,Bag,Accessories,61.23,"New York",M,Red,Spring,3,No,Express,Yes,Yes,11,Cash,Fortnightly,40s
+877,45,Male,Bag,Accessories,310.12,"Los Angeles",L,Blue,Winter,4,No,Express,Yes,Yes,6,Cash,Weekly,40s
+878,40,Male,Laptop,Clothing,371.60,"New York",M,Green,Winter,2,Yes,Standard,No,Yes,8,"Credit Card",Monthly,40s
+879,31,Female,Football,Sports,385.97,Houston,M,White,Fall,5,No,Express,Yes,Yes,6,UPI,Weekly,30s
+880,41,Male,Shoes,Sports,453.63,Miami,M,Blue,Summer,2,Yes,Express,No,No,13,Cash,Monthly,40s
+881,19,Male,Laptop,Clothing,210.64,Miami,S,Red,Fall,2,Yes,Express,Yes,No,2,"Credit Card",Fortnightly,"below 20"
+882,62,Female,Football,Accessories,477.01,Houston,XL,Black,Spring,2,No,Standard,No,No,5,Cash,Monthly,60+
+883,43,Male,Curtains,Accessories,434.06,"New York",M,White,Winter,1,Yes,Express,No,No,5,"Credit Card",Weekly,40s
+884,31,Male,Bag,Sports,155.29,"New York",L,Red,Spring,2,Yes,Standard,No,Yes,10,"Debit Card",Weekly,30s
+885,24,Male,Curtains,Electronics,88.05,Houston,M,Red,Fall,1,No,Express,Yes,No,11,UPI,Weekly,20s
+886,20,Male,Shoes,"Home Decor",223.34,Chicago,M,Blue,Spring,4,Yes,Express,Yes,No,6,Cash,Fortnightly,20s
+887,64,Female,Football,Electronics,206.93,Chicago,XL,Red,Spring,5,Yes,Express,Yes,Yes,5,Cash,Monthly,60+
+888,40,Male,Curtains,Accessories,292.10,"Los Angeles",L,White,Spring,5,Yes,Express,Yes,No,3,Cash,Weekly,40s
+889,63,Female,Football,Electronics,295.86,"New York",L,White,Spring,2,No,Express,Yes,Yes,13,PayPal,Weekly,60+
+890,60,Female,Laptop,"Home Decor",377.49,"New York",S,Red,Winter,5,Yes,Express,No,Yes,5,PayPal,Weekly,60+
+891,64,Male,Shoes,Electronics,259.85,Houston,L,Blue,Spring,1,Yes,Standard,No,Yes,2,"Debit Card",Fortnightly,60+
+892,62,Male,Curtains,Electronics,61.36,Houston,L,White,Spring,4,Yes,Standard,No,Yes,0,Cash,Weekly,60+
+893,35,Male,Watch,Electronics,430.56,Chicago,L,Black,Winter,2,No,Standard,No,Yes,14,UPI,Fortnightly,30s
+894,55,Male,Laptop,Electronics,161.78,"New York",M,Green,Spring,3,No,Express,Yes,No,0,PayPal,Fortnightly,50s
+895,52,Female,Bag,Clothing,485.94,"New York",S,Blue,Spring,5,No,Standard,Yes,No,4,"Credit Card",Weekly,50s
+896,32,Female,Watch,Accessories,67.75,Miami,L,Blue,Fall,5,No,Express,No,No,10,"Credit Card",Fortnightly,30s
+897,42,Female,Watch,"Home Decor",479.54,"Los Angeles",L,Green,Winter,2,No,Standard,No,Yes,12,"Credit Card",Fortnightly,40s
+898,54,Male,T-Shirt,Accessories,54.60,"Los Angeles",L,Green,Summer,5,No,Express,Yes,Yes,13,"Debit Card",Weekly,50s
+899,45,Female,T-Shirt,Clothing,123.21,Chicago,M,White,Spring,5,No,Standard,Yes,No,7,Cash,Weekly,40s
+900,27,Male,Shoes,Clothing,32.82,"New York",M,Red,Fall,3,Yes,Express,No,Yes,2,Cash,Monthly,20s
+901,56,Male,Curtains,Clothing,355.51,Miami,S,Red,Winter,1,Yes,Express,No,Yes,12,PayPal,Weekly,50s
+902,34,Male,Curtains,Clothing,426.65,"New York",XL,Black,Spring,2,No,Standard,Yes,Yes,1,"Credit Card",Monthly,30s
+903,56,Male,Curtains,Electronics,222.69,Houston,S,Red,Summer,2,No,Express,Yes,No,7,"Debit Card",Monthly,50s
+904,39,Male,Football,Accessories,464.98,Chicago,M,Black,Spring,3,No,Standard,Yes,Yes,8,UPI,Monthly,30s
+905,43,Female,Laptop,Sports,299.25,"Los Angeles",L,Black,Fall,3,Yes,Standard,No,Yes,8,Cash,Weekly,40s
+906,61,Female,Curtains,"Home Decor",318.70,"New York",L,Blue,Winter,1,Yes,Standard,No,Yes,1,Cash,Monthly,60+
+907,42,Male,Laptop,Clothing,424.26,Chicago,S,Blue,Fall,4,Yes,Standard,Yes,No,11,"Debit Card",Monthly,40s
+908,34,Female,Shoes,Accessories,155.43,"Los Angeles",L,White,Winter,2,Yes,Express,No,Yes,7,PayPal,Monthly,30s
+909,30,Male,Watch,Clothing,183.59,"New York",M,Green,Summer,5,No,Standard,No,No,1,"Debit Card",Weekly,30s
+910,37,Male,Curtains,Clothing,453.92,Miami,S,Green,Spring,1,Yes,Express,Yes,Yes,6,PayPal,Weekly,30s
+911,42,Male,Shoes,Clothing,451.47,Chicago,XL,Black,Fall,2,Yes,Express,No,Yes,7,Cash,Weekly,40s
+912,21,Female,Curtains,Clothing,488.48,"New York",M,Green,Summer,1,Yes,Express,No,No,0,PayPal,Weekly,20s
+913,27,Male,T-Shirt,Clothing,451.90,"Los Angeles",M,Black,Summer,4,No,Standard,No,No,7,PayPal,Fortnightly,20s
+914,20,Male,Phone,"Home Decor",72.41,"Los Angeles",L,Green,Spring,2,No,Express,Yes,No,14,PayPal,Weekly,20s
+915,58,Female,Shoes,Accessories,413.62,Miami,M,White,Fall,5,No,Express,Yes,Yes,2,PayPal,Monthly,50s
+916,62,Female,Curtains,Clothing,210.82,Chicago,M,Blue,Spring,2,Yes,Standard,No,No,12,"Credit Card",Weekly,60+
+917,35,Female,Bag,Clothing,495.49,Chicago,XL,Blue,Spring,1,Yes,Express,No,No,0,"Credit Card",Fortnightly,30s
+918,64,Male,Phone,Clothing,241.42,"New York",L,Black,Winter,4,Yes,Express,No,No,6,"Credit Card",Fortnightly,60+
+919,53,Male,Shoes,Clothing,281.38,"Los Angeles",M,Green,Winter,1,No,Express,No,Yes,9,"Credit Card",Fortnightly,50s
+920,64,Female,Bag,Electronics,269.59,"Los Angeles",L,Red,Spring,1,No,Express,Yes,No,2,"Debit Card",Weekly,60+
+921,39,Male,Bag,Electronics,167.65,Miami,M,White,Winter,3,Yes,Express,No,Yes,7,UPI,Fortnightly,30s
+922,51,Female,Football,Sports,46.76,Miami,XL,Green,Fall,1,Yes,Standard,No,Yes,8,PayPal,Fortnightly,50s
+923,64,Female,Bag,Clothing,448.87,Chicago,L,Red,Winter,4,No,Standard,No,Yes,1,"Debit Card",Fortnightly,60+
+924,25,Male,Curtains,Sports,403.31,"Los Angeles",L,White,Summer,5,Yes,Standard,No,No,14,"Credit Card",Weekly,20s
+925,57,Male,Football,"Home Decor",78.37,"New York",XL,White,Spring,3,Yes,Standard,Yes,No,0,PayPal,Fortnightly,50s
+926,61,Female,T-Shirt,Sports,390.62,Houston,S,Blue,Spring,1,Yes,Standard,No,No,7,UPI,Fortnightly,60+
+927,36,Female,Curtains,Accessories,316.66,"New York",M,Black,Fall,2,No,Express,Yes,No,9,PayPal,Monthly,30s
+928,59,Female,Watch,Electronics,210.48,Miami,M,Green,Spring,3,No,Standard,Yes,Yes,5,Cash,Monthly,50s
+929,58,Female,Bag,Electronics,134.47,"New York",S,White,Winter,4,No,Express,No,No,9,Cash,Monthly,50s
+930,54,Male,T-Shirt,Clothing,431.27,"Los Angeles",L,Green,Summer,2,No,Express,Yes,No,0,"Debit Card",Fortnightly,50s
+931,23,Female,Phone,Clothing,353.09,Chicago,L,White,Spring,4,No,Standard,Yes,Yes,2,UPI,Monthly,20s
+932,43,Female,Shoes,"Home Decor",278.39,Houston,XL,Blue,Winter,2,No,Standard,Yes,No,8,"Debit Card",Weekly,40s
+933,51,Female,Bag,"Home Decor",308.69,Chicago,XL,Black,Summer,5,No,Express,No,Yes,8,PayPal,Monthly,50s
+934,62,Male,Laptop,Accessories,54.62,Houston,XL,Red,Spring,4,No,Express,Yes,Yes,5,UPI,Weekly,60+
+935,23,Male,T-Shirt,Clothing,242.22,Houston,S,Red,Spring,2,No,Standard,Yes,No,2,"Debit Card",Monthly,20s
+936,54,Female,Laptop,Clothing,104.91,"Los Angeles",S,Blue,Spring,4,Yes,Standard,No,Yes,7,PayPal,Monthly,50s
+937,50,Male,Bag,"Home Decor",112.11,"Los Angeles",L,White,Summer,3,Yes,Express,Yes,Yes,5,"Credit Card",Monthly,50s
+938,39,Male,Laptop,"Home Decor",334.04,Miami,XL,Blue,Spring,4,Yes,Express,No,Yes,0,PayPal,Weekly,30s
+939,38,Male,Bag,"Home Decor",456.52,Miami,L,Black,Spring,4,Yes,Standard,No,No,5,"Debit Card",Weekly,30s
+940,23,Female,Shoes,Electronics,207.84,Houston,S,Red,Winter,2,No,Standard,No,No,12,UPI,Monthly,20s
+941,23,Female,Phone,Sports,111.80,Miami,M,Green,Winter,4,Yes,Standard,No,No,4,UPI,Weekly,20s
+942,21,Male,Shoes,Sports,327.89,"Los Angeles",L,Red,Winter,5,Yes,Express,No,Yes,7,"Credit Card",Monthly,20s
+943,47,Female,Curtains,Clothing,436.88,Miami,S,Black,Winter,1,Yes,Express,Yes,No,12,"Debit Card",Fortnightly,40s
+944,28,Female,T-Shirt,Electronics,376.68,Houston,XL,White,Spring,3,No,Express,No,No,1,"Credit Card",Fortnightly,20s
+945,47,Male,Laptop,"Home Decor",435.69,Chicago,M,Blue,Summer,2,Yes,Express,Yes,Yes,11,Cash,Fortnightly,40s
+946,48,Male,Shoes,Clothing,272.91,"New York",M,Red,Spring,4,Yes,Standard,Yes,No,6,PayPal,Weekly,40s
+947,41,Female,Bag,Electronics,378.42,Miami,M,Red,Fall,4,Yes,Standard,No,No,5,Cash,Fortnightly,40s
+948,26,Male,Shoes,Accessories,78.63,"Los Angeles",XL,Green,Summer,4,No,Express,Yes,Yes,0,Cash,Monthly,20s
+949,20,Female,Shoes,Electronics,180.65,Chicago,M,Blue,Fall,3,Yes,Express,Yes,No,11,"Credit Card",Monthly,20s
+950,48,Female,T-Shirt,Clothing,200.88,"Los Angeles",S,Green,Spring,1,No,Standard,No,Yes,7,"Credit Card",Weekly,40s
+951,57,Male,Phone,Sports,260.53,Miami,L,Green,Summer,5,No,Express,No,No,5,PayPal,Monthly,50s
+952,54,Female,Watch,"Home Decor",465.25,Houston,M,White,Summer,5,Yes,Standard,No,No,12,"Credit Card",Fortnightly,50s
+953,53,Female,Shoes,Accessories,438.41,"New York",M,Red,Winter,2,No,Standard,Yes,No,14,"Credit Card",Monthly,50s
+954,41,Male,T-Shirt,Electronics,75.92,"New York",S,Blue,Spring,1,No,Express,Yes,Yes,2,"Credit Card",Weekly,40s
+955,48,Male,Laptop,Clothing,94.67,Chicago,XL,White,Fall,1,Yes,Express,Yes,No,4,"Credit Card",Monthly,40s
+956,23,Male,Bag,Clothing,185.24,"New York",M,White,Summer,3,No,Standard,Yes,No,6,"Credit Card",Monthly,20s
+957,19,Female,Curtains,"Home Decor",152.46,Houston,S,White,Summer,4,Yes,Standard,No,Yes,8,Cash,Fortnightly,"below 20"
+958,37,Male,Watch,Clothing,311.24,"Los Angeles",S,Black,Winter,1,Yes,Express,Yes,No,3,Cash,Weekly,30s
+959,45,Male,Football,Clothing,452.36,Houston,XL,Black,Summer,4,Yes,Express,Yes,Yes,11,PayPal,Fortnightly,40s
+960,28,Male,Watch,"Home Decor",481.52,Chicago,XL,White,Winter,3,No,Express,No,No,13,UPI,Monthly,20s
+961,21,Male,Bag,Accessories,330.27,Chicago,L,Black,Summer,2,Yes,Standard,Yes,No,1,PayPal,Weekly,20s
+962,32,Female,Watch,Sports,420.70,"New York",M,Blue,Summer,2,Yes,Express,No,No,2,"Debit Card",Monthly,30s
+963,23,Female,Bag,Sports,267.35,Houston,L,Red,Spring,4,Yes,Standard,Yes,No,6,PayPal,Monthly,20s
+964,47,Male,T-Shirt,Electronics,112.08,"Los Angeles",S,Blue,Summer,4,No,Standard,No,No,7,PayPal,Fortnightly,40s
+965,55,Female,Football,Accessories,267.10,Houston,M,Red,Winter,1,Yes,Express,Yes,No,4,"Credit Card",Monthly,50s
+966,19,Male,Shoes,Electronics,281.99,"Los Angeles",S,Black,Winter,3,No,Standard,No,Yes,14,"Credit Card",Weekly,"below 20"
+967,32,Male,Shoes,Sports,373.80,"Los Angeles",S,Blue,Winter,2,No,Express,Yes,No,14,"Credit Card",Weekly,30s
+968,28,Female,Watch,"Home Decor",117.74,Houston,S,Green,Fall,1,Yes,Express,Yes,Yes,2,UPI,Fortnightly,20s
+969,25,Female,T-Shirt,Clothing,190.47,Miami,XL,White,Summer,5,No,Express,No,No,0,"Credit Card",Fortnightly,20s
+970,43,Male,Football,Sports,188.37,Houston,XL,Red,Spring,1,Yes,Express,No,Yes,9,"Debit Card",Weekly,40s
+971,62,Male,Shoes,Accessories,480.13,"Los Angeles",M,Red,Spring,4,No,Express,No,Yes,12,Cash,Fortnightly,60+
+972,61,Female,Laptop,Sports,227.53,Chicago,S,Green,Fall,5,Yes,Standard,Yes,Yes,0,"Debit Card",Monthly,60+
+973,22,Male,Phone,Accessories,380.00,Chicago,S,Green,Summer,1,Yes,Express,No,No,10,UPI,Weekly,20s
+974,23,Female,Phone,Accessories,377.90,"New York",M,White,Winter,3,No,Standard,No,No,1,"Credit Card",Fortnightly,20s
+975,43,Male,Shoes,Accessories,140.12,Chicago,L,Black,Fall,2,Yes,Express,Yes,Yes,4,PayPal,Weekly,40s
+976,21,Male,Football,Electronics,290.22,Miami,S,Blue,Fall,5,Yes,Express,No,Yes,2,Cash,Monthly,20s
+977,36,Female,Curtains,"Home Decor",448.21,"Los Angeles",XL,Blue,Winter,3,No,Express,No,Yes,12,UPI,Fortnightly,30s
+978,37,Female,Shoes,Sports,242.85,Houston,L,Blue,Fall,1,No,Express,No,Yes,6,"Debit Card",Weekly,30s
+979,50,Female,Curtains,"Home Decor",473.11,Houston,L,Black,Fall,4,No,Standard,Yes,Yes,1,"Credit Card",Monthly,50s
+980,37,Female,Curtains,Clothing,115.08,Miami,L,White,Winter,4,No,Express,Yes,Yes,1,UPI,Fortnightly,30s
+981,29,Female,Bag,Sports,46.34,Chicago,L,Blue,Summer,3,No,Express,Yes,No,2,UPI,Weekly,20s
+982,64,Female,Bag,"Home Decor",446.81,"Los Angeles",L,Red,Spring,4,Yes,Express,No,No,12,PayPal,Monthly,60+
+983,18,Female,Football,"Home Decor",425.36,Chicago,L,Red,Spring,2,Yes,Standard,Yes,Yes,11,PayPal,Monthly,"below 20"
+984,43,Male,Curtains,Clothing,496.37,"New York",M,Red,Winter,3,Yes,Express,Yes,No,0,PayPal,Monthly,40s
+985,31,Male,Laptop,Accessories,342.90,Chicago,M,Green,Winter,3,No,Standard,Yes,Yes,1,"Debit Card",Monthly,30s
+986,55,Male,Football,Sports,468.98,"New York",L,Green,Summer,4,No,Express,No,Yes,4,PayPal,Monthly,50s
+987,54,Female,Shoes,Sports,415.21,Houston,XL,Black,Fall,3,Yes,Express,Yes,No,2,UPI,Fortnightly,50s
+988,28,Female,Watch,Clothing,423.77,"Los Angeles",M,Blue,Summer,1,No,Express,Yes,Yes,14,UPI,Monthly,20s
+989,53,Female,Laptop,Accessories,288.88,"New York",M,Green,Fall,5,Yes,Express,Yes,No,10,UPI,Fortnightly,50s
+990,30,Male,T-Shirt,Sports,197.36,Chicago,L,Red,Fall,5,Yes,Express,Yes,Yes,9,Cash,Fortnightly,30s
+991,60,Female,Phone,Sports,467.93,Chicago,XL,Green,Summer,4,No,Express,No,Yes,5,Cash,Weekly,60+
+992,20,Female,Shoes,Sports,221.74,Houston,L,Red,Winter,2,No,Express,Yes,No,1,"Debit Card",Weekly,20s
+993,50,Male,Shoes,Accessories,274.02,Miami,XL,Blue,Winter,2,No,Standard,Yes,No,14,PayPal,Fortnightly,50s
+994,23,Female,Shoes,Clothing,228.60,Miami,XL,Black,Summer,4,No,Express,Yes,No,13,UPI,Monthly,20s
+995,27,Male,Laptop,Sports,286.76,Chicago,S,White,Fall,4,No,Express,No,Yes,7,PayPal,Monthly,20s
+996,22,Male,T-Shirt,"Home Decor",240.55,Miami,M,White,Fall,3,No,Standard,No,No,3,UPI,Fortnightly,20s
+997,40,Female,Watch,Accessories,33.50,"Los Angeles",L,Red,Fall,2,Yes,Express,Yes,Yes,2,Cash,Monthly,40s
+998,27,Female,Football,Electronics,442.20,Miami,M,Green,Fall,5,No,Express,No,Yes,4,UPI,Fortnightly,20s
+999,61,Female,Bag,Clothing,227.75,"Los Angeles",M,Green,Summer,4,Yes,Standard,Yes,No,13,"Debit Card",Weekly,60+
+1000,19,Male,T-Shirt,"Home Decor",298.58,Chicago,XL,Red,Spring,5,Yes,Express,No,Yes,7,"Credit Card",Monthly,"below 20"
