@@ -3,5 +3,3 @@ Customer segmentation: analyze customer details in shopping through trends, iden
 <img width="963" height="542" alt="CUSTOMER_SEGMENTATION_DASHBOARD" src="https://github.com/user-attachments/assets/347168c8-b7d8-474a-98e9-380fa8ac7cfc" />
 <img width="603" height="475" alt="K_Means_Customers_Segmentation" src="https://github.com/user-attachments/assets/13a195c9-687f-4052-8290-be04febc75d6" />
 
-file:///C:/Users/YS%20PRAVEEN/Downloads/Datamities/Datamitires_Projects/SATYAPraveenKumarReddyYalla_CDA_Nov-24_march_23_Customer_Segmentation_Project/SATYAPRAVEENKUMARREDDYYALLA_24NOV-23-MARCH_CLIENT_PROJECT.svg
-
